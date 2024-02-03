@@ -103,7 +103,7 @@ class AnalisisEquipos:
     def regresion_lineal(self):
         # Extraer las variables independientes (X) y dependientes (y)
         X = self.df.index.values.reshape(-1, 1)  # Usaremos el índice como variable independiente
-        #ordena los valores de menor a mayor
+        # Ordenar los valores de menor a mayor
         y = self.df['puntaje'].sort_values().values.reshape(-1, 1)
 
         # Crear un modelo de regresión lineal
