@@ -3,6 +3,7 @@ import sqlite3
 import matplotlib.pyplot as plt
 from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 from PIL import Image
+from sklearn.linear_model import LinearRegression
 
 conexion = sqlite3.connect('bookmaker.db')
 
@@ -98,6 +99,30 @@ class AnalisisEquipos:
         plt.show()
 
         return self.df
+    
+    def regresion_lineal(self):
+        # Extraer las variables independientes (X) y dependientes (y)
+        X = self.df.index.values.reshape(-1, 1)  # Usaremos el índice como variable independiente
+        #ordena los valores de menor a mayor
+        y = self.df['puntaje'].sort_values().values.reshape(-1, 1)
+
+        # Crear un modelo de regresión lineal
+        modelo = LinearRegression()
+
+        # Ajustar el modelo a los datos
+        modelo.fit(X, y)
+
+        # Predecir los puntajes para los valores existentes y futuros
+        predicciones = modelo.predict(X)
+
+        # Graficar los datos y la línea de regresión
+        plt.scatter(X, y, label='Datos reales')
+        plt.plot(X, predicciones, color='red', label='Regresión lineal')
+        plt.xlabel('Equipos')
+        plt.ylabel('Puntaje')
+        plt.title('Regresión Lineal de Puntajes de Equipos')
+        plt.legend()
+        plt.show()
 
 
 analisis = Analisis_Partidos(df)
@@ -107,3 +132,4 @@ analisis.estadisticos()
 analisis_equipos = AnalisisEquipos(df_equipos)
 df_equipos = analisis_equipos.grafico_puntos()
 analisis_equipos.estadisticos()
+analisis_equipos.regresion_lineal()
