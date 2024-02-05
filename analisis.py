@@ -21,6 +21,7 @@ conexion.close()
 
 plt.rcParams['figure.figsize'] = (12, 8)
 
+
 class Analisis_Partidos:
     def __init__(self, df):
         self.df = df
@@ -87,7 +88,7 @@ class AnalisisEquipos:
                 imagebox, (i, 0), frameon=False, boxcoords="data", pad=0.5)
             ax.add_artist(ab)
 
-        plt.title("Puntaje de cada equipo con escudos")
+        plt.title("Puntaje de cada equipo Champions 2021-2022")
         plt.xlabel("Equipos")
         plt.ylabel("Puntaje")
         plt.xticks(rotation=45, ha="right")
@@ -99,10 +100,11 @@ class AnalisisEquipos:
         plt.show()
 
         return self.df
-    
+
     def regresion_lineal(self):
         # Extraer las variables independientes (X) y dependientes (y)
-        X = self.df.index.values.reshape(-1, 1)  # Usaremos el índice como variable independiente
+        # Usaremos el índice como variable independiente
+        X = self.df.index.values.reshape(-1, 1)
         # Ordenar los valores de menor a mayor
         y = self.df['puntaje'].sort_values().values.reshape(-1, 1)
 
