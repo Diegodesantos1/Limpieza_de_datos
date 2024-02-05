@@ -8,3 +8,4 @@ sqlalchemy-filters
 colorama
 flask-mail
 scikit-learn
+seaborn

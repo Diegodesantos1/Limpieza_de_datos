@@ -127,11 +127,14 @@ class AnalisisEquipos:
         plt.show()
 
 
-analisis = Analisis_Partidos(df)
-df = analisis.grafico_puntos()
-analisis.estadisticos()
+def main():
 
-analisis_equipos = AnalisisEquipos(df_equipos)
-df_equipos = analisis_equipos.grafico_puntos()
-analisis_equipos.estadisticos()
-analisis_equipos.regresion_lineal()
+    global df, df_equipos
+    analisis = Analisis_Partidos(df)
+    df = analisis.grafico_puntos()
+    analisis.estadisticos()
+
+    analisis_equipos = AnalisisEquipos(df_equipos)
+    df_equipos = analisis_equipos.grafico_puntos()
+    analisis_equipos.estadisticos()
+    analisis_equipos.regresion_lineal()
