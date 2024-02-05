@@ -155,14 +155,18 @@ class AnalisisEquipos:
         plt.show()
 
 
-analisis = Analisis_Partidos(df)
-df = analisis.grafico_puntos()
-analisis.estadisticos()
+def main():
 
-analisis_equipos = AnalisisEquipos(df_equipos)
-df_equipos = analisis_equipos.grafico_puntos()
-analisis_equipos.estadisticos()
-analisis_equipos.regresion_lineal()
+    global df, df_equipos
+    analisis = Analisis_Partidos(df)
+    df = analisis.grafico_puntos()
+    analisis.estadisticos()
+
+    analisis_equipos = AnalisisEquipos(df_equipos)
+    df_equipos = analisis_equipos.grafico_puntos()
+    analisis_equipos.estadisticos()
+    analisis_equipos.regresion_lineal()
+
 ```
 
 Después gráficas como la diferencia de puntos entre el equipo local tanto visitante:
@@ -177,7 +181,7 @@ Además una gráfica con la distribución por país de los diferentes equipos en
 
 ![image](https://github.com/Diegodesantos1/Limpieza_de_datos/assets/91721855/4df58005-388d-4211-adab-50beb1efd320)
 
-Y por último una regresión lineal de los datos:
+Y por último la regresión lineal de los datos entre los equipos y los puntos obtenidos:
 
 ![image](https://github.com/Diegodesantos1/Limpieza_de_datos/assets/91721855/e53b22b2-2349-45d1-96c0-d38e418b95b5)
 
