@@ -167,13 +167,17 @@ analisis_equipos.regresion_lineal()
 
 Después gráficas como la diferencia de puntos entre el equipo local tanto visitante:
 
+![image](https://github.com/Diegodesantos1/Limpieza_de_datos/assets/91721855/68f5a32d-95e7-483f-9821-f9246e6cfb08)
 
 También una gráfica con la distribución de puntos de cada equipo de la Champions con su respectivo escudo:
 
+![image](https://github.com/Diegodesantos1/Limpieza_de_datos/assets/91721855/9891bade-72e1-4665-9e17-25ab2ae382c3)
 
 Además una gráfica con la distribución por país de los diferentes equipos en la competición Europea:
 
+![image](https://github.com/Diegodesantos1/Limpieza_de_datos/assets/91721855/4df58005-388d-4211-adab-50beb1efd320)
 
 Y por último una regresión lineal de los datos:
 
+![image](https://github.com/Diegodesantos1/Limpieza_de_datos/assets/91721855/e53b22b2-2349-45d1-96c0-d38e418b95b5)
 
