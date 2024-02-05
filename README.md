@@ -116,7 +116,7 @@ class AnalisisEquipos:
                 imagebox, (i, 0), frameon=False, boxcoords="data", pad=0.5)
             ax.add_artist(ab)
 
-        plt.title("Puntaje de cada equipo con escudos")
+        plt.title("Puntaje de cada equipo Champions 2021-2022")
         plt.xlabel("Equipos")
         plt.ylabel("Puntaje")
         plt.xticks(rotation=45, ha="right")
@@ -171,7 +171,7 @@ Después gráficas como la diferencia de puntos entre el equipo local tanto visi
 
 También una gráfica con la distribución de puntos de cada equipo de la Champions con su respectivo escudo:
 
-![image](https://github.com/Diegodesantos1/Limpieza_de_datos/assets/91721855/9891bade-72e1-4665-9e17-25ab2ae382c3)
+![image](https://github.com/Diegodesantos1/Limpieza_de_datos/assets/91721855/2ff27441-d78b-400c-a4d0-e94c0abd03ed)
 
 Además una gráfica con la distribución por país de los diferentes equipos en la competición Europea:
 
