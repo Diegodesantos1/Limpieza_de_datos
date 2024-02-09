@@ -9,3 +9,4 @@ colorama
 flask-mail
 scikit-learn
 seaborn
+lxml
