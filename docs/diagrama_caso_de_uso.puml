@@ -1,8 +1,0 @@
-@startuml
-
-Cliente --> (Inicio con partidos)
-Cliente --> (Seccion de apuestas)
-
-Empresa --> (Administrar clientes)
-
-@enduml

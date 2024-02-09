@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Usuario\Desktop\UNIVERSIDAD\TERCERO\INTELIGENCIA ARTIFICIAL\Api_Casas_Apuestas"
+VIRTUAL_ENV="C:\Users\Usuario\Desktop\UNIVERSIDAD\TERCERO\INTELIGENCIA ARTIFICIAL\Limpieza_de_datos"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
@@ -54,7 +54,7 @@ fi
 
 if [ -z "${VIRTUAL_ENV_DISABLE_PROMPT:-}" ] ; then
     _OLD_VIRTUAL_PS1="${PS1:-}"
-    PS1="(Api_Casas_Apuestas) ${PS1:-}"
+    PS1="(Limpieza_de_datos) ${PS1:-}"
     export PS1
 fi
 

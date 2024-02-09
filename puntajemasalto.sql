@@ -1,1 +1,0 @@
-SELECT MAX(puntaje) FROM equipos;
