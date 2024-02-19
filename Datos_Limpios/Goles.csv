@@ -1,97 +1,83 @@
-Equipo,Goles a Favor,Goles en Contra
-AC Milan,15.0,24.0
-Newcastle,24.0,28.0
-Young Boys,39.0,76.0
-Leipzig,,
-Feyenoord,41.0,54.0
-Celtic,29.0,93.0
-Lazio,,
-Atletico de Madrid,,
-Paris,,
-Borussia Dortmund,,
-Manchester City,,
-Crvena zvezda,36.0,97.0
-FC Barcelona,,
-Antwerp,24.0,68.0
-Shakhtar Donetsk,82.0,122.0
-FC Porto,,
-Galatasaray,46.0,74.0
-Copenhagen,,
-Real Madrid,,
-Union Berlin,24.0,40.0
-Bayern Munich,,
-Manchester United,49.0,50.0
-Sevilla,67.0,93.0
-Lens,24.0,44.0
-Arsenal,,
-PSV,,
-Braga,24.0,48.0
-Napoli,,
-Real Sociedad,,
-Internazionale,,
-Benfica,85.0,110.0
-Salzburg,57.0,85.0
-CSKA Moscow,8.0,10.0
-Basel,13.0,10.0
-Anderlecht,2.0,17.0
-Paris Saint-Germain,27.0,9.0
-Chelsea,85.0,51.0
-Qarabag,2.0,14.0
-Roma,35.0,31.0
-Atlético Madrid,5.0,4.0
-Barcelona,102.0,67.0
-Juventus,80.0,58.0
-Olympiacos,14.0,37.0
-Sporting CP,30.0,35.0
-Maribor,3.0,16.0
-Spartak Moscow,9.0,13.0
-Liverpool,144.0,72.0
-RB Leipzig,10.0,11.0
-Monaco,8.0,30.0
-Porto,66.0,58.0
-Besiktas,15.0,32.0
-APOEL,2.0,17.0
-Tottenham Hotspur,18.0,8.0
-Tottenham,46.0,44.0
-Atlético,45.0,48.0
-Club Brugge,32.0,58.0
-Dortmund,67.0,52.0
-Schalke,8.0,14.0
-Lokomotiv Moskva,13.0,33.0
-Ajax,74.0,50.0
-AEK,2.0,13.0
-Hoffenheim,11.0,14.0
-Bayern,,
-Man. City,105.0,42.0
-Lyon,27.0,30.0
-Plzen,12.0,40.0
-CSKA Moskva,8.0,9.0
-Valencia,19.0,21.0
-Man. United,37.0,31.0
-Slavia Praha,4.0,10.0
-Zenit,21.0,32.0
-Genk,5.0,20.0
-LOSC,12.0,22.0
-Dinamo Zagreb,14.0,24.0
-Atalanta,40.0,43.0
-Leverkusen,9.0,17.0
-Dynamo Kyiv,5.0,24.0
-Rennes,3.0,11.0
-Krasnodar,6.0,11.0
-Ferencváros,5.0,17.0
-Istanbul Basaksehir,7.0,18.0
-Mönchengladbach,16.0,13.0
-Marseille,10.0,21.0
-Midtjylland,4.0,13.0
-Villarreal,20.0,16.0
-Wolfsburg,5.0,10.0
-Malmö,1.0,14.0
-Sheriff,7.0,11.0
-Milan,26.0,28.0
-Inter,36.0,23.0
-Man City,,
-M. Haifa,7.0,21.0
-Rangers,2.0,22.0
-Frankfurt,7.0,13.0
-Atlético de Madrid,17.0,6.0
-Man United,12.0,15.0
+Equipo,Goles
+Bayern Munich,266
+FC Barcelona,221
+Manchester City,220
+Real Madrid,220
+Paris Saint-Germain,197
+Liverpool,146
+Chelsea,139
+Atletico de Madrid,121
+FC Porto,118
+Juventus,114
+Borussia Dortmund,103
+Benfica,99
+Napoli,88
+Ajax,83
+Shakhtar Donetsk,82
+Arsenal,78
+Tottenham,64
+Manchester United,60
+AS Roma,59
+Sevilla,57
+Leipzig,56
+Bayer Leverkusen,52
+Internazionale,51
+Borussia Mönchengladbach,47
+FC Zenit,46
+CSKA Moscow,43
+Salzburg,41
+Atalanta,40
+Dynamo Kyiv,37
+Club Brugge,32
+Sporting CP,30
+PSV,30
+Lyon,30
+Olympiacos,29
+FC Basel,29
+Besiktas,24
+Wolfsburg,24
+Galatasaray,23
+Valencia,22
+AS Monaco,22
+AC Milan,21
+Celtic,21
+Ludogorets Razgrad,21
+Villarreal,20
+Dinamo Zagreb,18
+Lokomotiv Moskva,13
+Rostov,13
+Lazio,13
+LOSC,12
+Plzen,12
+Hoffenheim,11
+Young Boys,11
+RB Leipzig,10
+FC Schalke 04,10
+Gent,10
+Marseille,10
+Spartak Moscow,9
+Anderlecht,9
+BATE Borisov,8
+Crvena zvezda,8
+Maribor,7
+M. Haifa,7
+Sheriff,7
+Istanbul Basaksehir,7
+Frankfurt,7
+Krasnodar,6
+Malmo FF,6
+Astana,5
+Genk,5
+Ferencváros,5
+Feyenoord,5
+Leicester City,4
+Slavia Praha,4
+Midtjylland,4
+Rennes,3
+Apoel,3
+Rangers,2
+Qarabag,2
+AEK,2
+Athletic Bilbao,2
+Copenhagen,1
+Maccabi Tel Aviv,0
