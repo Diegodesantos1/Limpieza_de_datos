@@ -1,47 +1,83 @@
-Equipo,Puntuacion Total,Unnamed: 2_level_0,Total Points
-Real Madrid,195,Real Madrid,363.0
-FC Barcelona,188,FC Barcelona,264.0
-Manchester City,175,Manchester City,260.0
-Paris Saint-Germain,162,Paris Saint-Germain,213.0
-Juventus,118,Juventus,221.0
-Chelsea,115,Chelsea,210.0
-Liverpool,105,Liverpool,234.0
-FC Porto,98,FC Porto,184.0
-Borussia Dortmund,69,Borussia Dortmund,179.0
-Napoli,67,Napoli,160.0
-Benfica,64,Benfica,148.0
-Arsenal,49,Arsenal,171.0
-Manchester United,49,Manchester United,193.0
-Internazionale,45,Internazionale,151.0
-Ajax,44,Ajax,158.5
-Shakhtar Donetsk,39,Shakhtar Donetsk,145.0
-Bayer Leverkusen,38,Bayer Leverkusen,140.0
-Sevilla,37,Sevilla,204.0
-CSKA Moscow,32,CSKA Moscow,57.0
-AS Roma,26,AS Roma,172.0
-Atalanta,21,Atalanta,81.5
-Club Brugge,18,Club Brugge,95.5
-FC Basel,17,FC Basel,106.5
-Valencia,15,Valencia,57.0
-Borussia Mönchengladbach,15,Borussia Mönchengladbach,52.0
-Villarreal,14,Villarreal,151.0
-AC Milan,14,AC Milan,114.0
-Besiktas,13,Besiktas,74.0
-Lazio,8,Lazio,91.0
-RB Leipzig,4,RB Leipzig,118.0
-Spartak Moscow,4,Spartak Moscow,30.5
-Dynamo Kyiv,3,Dynamo Kyiv,93.5
-Young Boys,2,Young Boys,62.0
-Dinamo Zagreb,2,Dinamo Zagreb,77.5
-Leicester City,2,Leicester City,45.0
-Celtic,1,Celtic,67.0
-AS Monaco,1,AS Monaco,86.0
-Galatasaray,1,Galatasaray,56.0
-BATE Borisov,1,BATE Borisov,37.0
-Istanbul Basaksehir,-2,Istanbul Basaksehir,39.5
-Ludogorets Razgrad,-2,Ludogorets Razgrad,53.0
-Slavia Praha,-2,Slavia Praha,74.5
-Feyenoord,-2,Feyenoord,86.0
-Ferencváros,-4,Ferencváros,38.5
-Anderlecht,-4,Anderlecht,63.5
-Athletic Bilbao,-4,Athletic Bilbao,46.0
+Equipo,Puntos
+Bayern Munich,204
+Real Madrid,195
+FC Barcelona,188
+Manchester City,175
+Paris Saint-Germain,162
+Atletico de Madrid,133
+Juventus,118
+Chelsea,115
+Liverpool,105
+FC Porto,98
+Borussia Dortmund,69
+Napoli,67
+Benfica,64
+Manchester United,49
+Arsenal,49
+Tottenham,47
+Internazionale,45
+Ajax,44
+Leipzig,40
+Shakhtar Donetsk,39
+Bayer Leverkusen,38
+Sevilla,37
+CSKA Moscow,32
+FC Zenit,30
+AS Roma,26
+Atalanta,21
+Wolfsburg,21
+Club Brugge,18
+FC Basel,17
+Salzburg,16
+Lyon,15
+Borussia Mönchengladbach,15
+Valencia,15
+Sporting CP,14
+Villarreal,14
+AC Milan,14
+Besiktas,13
+FC Schalke 04,10
+Lazio,8
+Gent,7
+Frankfurt,6
+LOSC,4
+Olympiacos,4
+Sheriff,4
+RB Leipzig,4
+Spartak Moscow,4
+Dynamo Kyiv,3
+Young Boys,2
+Krasnodar,2
+Dinamo Zagreb,2
+Leicester City,2
+Galatasaray,1
+BATE Borisov,1
+Celtic,1
+Rostov,1
+AS Monaco,1
+Hoffenheim,0
+Copenhagen,0
+Astana,0
+Marseille,0
+Maribor,-1
+Istanbul Basaksehir,-2
+Ludogorets Razgrad,-2
+Qarabag,-2
+Slavia Praha,-2
+M. Haifa,-2
+Plzen,-2
+Midtjylland,-2
+Crvena zvezda,-2
+Feyenoord,-2
+PSV,-3
+Ferencváros,-4
+Rennes,-4
+Genk,-4
+Anderlecht,-4
+Malmo FF,-4
+Athletic Bilbao,-4
+Lokomotiv Moskva,-4
+Apoel,-5
+AEK,-6
+Maccabi Tel Aviv,-6
+Rangers,-6
