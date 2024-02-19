@@ -26,10 +26,10 @@ for i in range(len(datos)):
 
 
 datos_limpios = ["Datos_Limpios/UCL2014-2015.csv", "Datos_Limpios/UCL2015-2016.csv", "Datos_Limpios/UCL2016-2017.csv", "Datos_Limpios/UCL2017-2018.csv", "Datos_Limpios/UCL2018-2019.csv", "Datos_Limpios/UCL2019-2020.csv",
-                 "Datos_Limpios/UCL2020-2021.csv", "Datos_Limpios/UCL2021-2022.csv", "Datos_Limpios/UCL2022-2023.csv"]
+                 "Datos_Limpios/UCL2020-2021.csv", "Datos_Limpios/UCL2021-2022.csv", "Datos_Limpios/UCL2022-2023.csv", "Datos_Limpios/UCL2023-2024.csv"]
 
 nombres_goles = ["2014-2015", "2015-2016", "2016-2017", "2017-2018",
-                 "2018-2019", "2019-2020", "2020-2021", "2021-2022", "2022-2023"]
+                 "2018-2019", "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024"]
 
 
 # Printeo todos los nombres de los equipos desde 2014-2015 hasta 2022-2023
