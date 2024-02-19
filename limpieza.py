@@ -472,15 +472,11 @@ def limpieza():
     df = pd.DataFrame({'Equipo': equipos, 'Puntos': puntos})
     df.to_csv("Datos_Limpios/Puntaje.csv", index=False)
 
-    for i in range(len(datos)):
-        df = pd.read_csv(datos[i])
-
-        # Crear una copia del dataframe
-        df_trabajar = df.copy()
-
-        # Eliminar las columnas Match Number, Date, Location, Group
-        df_trabajar = df_trabajar.drop(
-            ['Match Number', 'Date', 'Location', 'Group'], axis=1)
+    datos_goles = ["Datos_Limpios/UCL2014-2015.csv", "Datos_Limpios/UCL2015-2016.csv", "Datos_Limpios/UCL2016-2017.csv", "Datos_Limpios/UCL2017-2018.csv", "Datos_Limpios/UCL2018-2019.csv", "Datos_Limpios/UCL2019-2020.csv", "Datos_Limpios/UCL2020-2021.csv", "Datos_Limpios/UCL2021-2022.csv", "Datos_Limpios/UCL2022-2023.csv", "Datos_Limpios/UCL2023-2024.csv"]
+    
+    nombres_goles = ["2014-2015", "2015-2016", "2016-2017", "2017-2018", "2018-2019", "2019-2020", "2020-2021", "2021-2022", "2022-2023", "2023-2024"]
+    for i in range(len(datos_goles)):
+        df = pd.read_csv(datos_goles[i])
 
         # Dividir el resultado en goles de local y visitante
         df_trabajar[['Home Goals', 'Away Goals']
@@ -490,6 +486,6 @@ def limpieza():
 
         # Guardar el dataframe en un archivo CSV
         df_trabajar.to_csv("Datos_Limpios/UCL" +
-                           nombres[i] + ".csv", index=False)
+                           nombres_goles[i] + ".csv", index=False)
 
     print("Datos limpios\n")
