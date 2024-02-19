@@ -1,120 +1,120 @@
-Round Number,Home Team,Away Team,Result,Winner
-1,Internazionale,Slavia Praha,1 - 1,Draw
-1,Lyon,FC Zenit,1 - 1,Draw
-1,Napoli,Liverpool,2 - 0,Napoli
-1,Salzburg,Genk,6 - 2,Salzburg
-1,Borussia Dortmund,FC Barcelona,0 - 0,Draw
-1,Benfica,Leipzig,1 - 2,Leipzig
-1,Chelsea,Valencia,0 - 1,Valencia
-1,Ajax,LOSC,3 - 0,Ajax
-1,Club Brugge,Galatasaray,0 - 0,Draw
-1,Olympiacos,Tottenham,2 - 2,Draw
-1,Paris,Real Madrid,3 - 0,Paris
-1,Bayern Munich,Crvena zvezda,3 - 0,Bayern
-1,Dinamo Zagreb,Atalanta,4 - 0,Dinamo Zagreb
-1,Shakhtar Donetsk,Manchester City,0 - 3,Man. City
-1,Bayer Leverkusen,Lokomotiv Moskva,1 - 2,Lokomotiv Moskva
-1,Atletico de Madrid,Juventus,2 - 2,Draw
-2,Real Madrid,Club Brugge,2 - 2,Draw
-2,Atalanta,Shakhtar Donetsk,1 - 2,Shakhtar Donetsk
-2,Galatasaray,Paris,0 - 1,Paris
-2,Tottenham,Bayern Munich,2 - 7,Bayern
-2,Crvena zvezda,Olympiacos,3 - 1,Crvena zvezda
-2,Manchester City,Dinamo Zagreb,2 - 0,Man. City
-2,Juventus,Bayer Leverkusen,3 - 0,Juventus
-2,Lokomotiv Moskva,Atletico de Madrid,0 - 2,Atlético
-2,Genk,Napoli,0 - 0,Draw
-2,Slavia Praha,Borussia Dortmund,0 - 2,Dortmund
-2,Liverpool,Salzburg,4 - 3,Liverpool
-2,FC Barcelona,Internazionale,2 - 1,Barcelona
-2,Leipzig,Lyon,0 - 2,Lyon
-2,FC Zenit,Benfica,3 - 1,Zenit
-2,LOSC,Chelsea,1 - 2,Chelsea
-2,Valencia,Ajax,0 - 3,Ajax
-3,Shakhtar Donetsk,Dinamo Zagreb,2 - 2,Draw
-3,Atletico de Madrid,Bayer Leverkusen,1 - 0,Atlético
-3,Club Brugge,Paris,0 - 5,Paris
-3,Galatasaray,Real Madrid,0 - 1,Real Madrid
-3,Olympiacos,Bayern Munich,2 - 3,Bayern
-3,Tottenham,Crvena zvezda,5 - 0,Tottenham
-3,Manchester City,Atalanta,5 - 1,Man. City
-3,Juventus,Lokomotiv Moskva,2 - 1,Juventus
-3,Leipzig,FC Zenit,2 - 1,Leipzig
-3,Ajax,Chelsea,0 - 1,Chelsea
-3,Salzburg,Napoli,2 - 3,Napoli
-3,Genk,Liverpool,1 - 4,Liverpool
-3,Internazionale,Borussia Dortmund,2 - 0,Internazionale
-3,Slavia Praha,FC Barcelona,1 - 2,Barcelona
-3,Benfica,Lyon,2 - 1,Benfica
-3,LOSC,Valencia,1 - 1,Draw
-4,FC Barcelona,Slavia Praha,0 - 0,Draw
-4,FC Zenit,Leipzig,0 - 2,Leipzig
-4,Napoli,Salzburg,1 - 1,Draw
-4,Liverpool,Genk,2 - 1,Liverpool
-4,Borussia Dortmund,Internazionale,3 - 2,Dortmund
-4,Lyon,Benfica,3 - 1,Lyon
-4,Chelsea,Ajax,4 - 4,Draw
-4,Valencia,LOSC,4 - 1,Valencia
-4,Bayern Munich,Olympiacos,2 - 0,Bayern
-4,Lokomotiv Moskva,Juventus,1 - 2,Juventus
-4,Paris,Club Brugge,1 - 0,Paris
-4,Real Madrid,Galatasaray,6 - 0,Real Madrid
-4,Crvena zvezda,Tottenham,0 - 4,Tottenham
-4,Dinamo Zagreb,Shakhtar Donetsk,3 - 3,Draw
-4,Atalanta,Manchester City,1 - 1,Draw
-4,Bayer Leverkusen,Atletico de Madrid,2 - 1,Leverkusen
-5,Galatasaray,Club Brugge,1 - 1,Draw
-5,Lokomotiv Moskva,Bayer Leverkusen,0 - 2,Leverkusen
-5,Real Madrid,Paris,2 - 2,Draw
-5,Crvena zvezda,Bayern Munich,0 - 6,Bayern
-5,Tottenham,Olympiacos,4 - 2,Tottenham
-5,Atalanta,Dinamo Zagreb,2 - 0,Atalanta
-5,Manchester City,Shakhtar Donetsk,1 - 1,Draw
-5,Juventus,Atletico de Madrid,1 - 0,Juventus
-5,FC Zenit,Lyon,2 - 0,Zenit
-5,Valencia,Chelsea,2 - 2,Draw
-5,Liverpool,Napoli,1 - 1,Draw
-5,Genk,Salzburg,1 - 4,Salzburg
-5,FC Barcelona,Borussia Dortmund,3 - 1,Barcelona
-5,Slavia Praha,Internazionale,1 - 3,Internazionale
-5,Leipzig,Benfica,2 - 2,Draw
-5,LOSC,Ajax,0 - 2,Ajax
-6,Napoli,Genk,4 - 0,Napoli
-6,Salzburg,Liverpool,0 - 2,Liverpool
-6,Borussia Dortmund,Slavia Praha,2 - 1,Dortmund
-6,Internazionale,FC Barcelona,1 - 2,Barcelona
-6,Lyon,Leipzig,2 - 2,Draw
-6,Benfica,FC Zenit,3 - 0,Benfica
-6,Chelsea,LOSC,2 - 1,Chelsea
-6,Ajax,Valencia,0 - 1,Valencia
-6,Dinamo Zagreb,Manchester City,1 - 4,Man. City
-6,Shakhtar Donetsk,Atalanta,0 - 3,Atalanta
-6,Paris,Galatasaray,5 - 0,Paris
-6,Club Brugge,Real Madrid,1 - 3,Real Madrid
-6,Bayern Munich,Tottenham,3 - 1,Bayern
-6,Olympiacos,Crvena zvezda,1 - 0,Olympiacos
-6,Bayer Leverkusen,Juventus,0 - 2,Juventus
-6,Atletico de Madrid,Lokomotiv Moskva,2 - 0,Atlético
-R16 Game 1,Atletico de Madrid,Liverpool,1 - 0,Atlético
-R16 Game 1,Borussia Dortmund,Paris,2 - 1,Dortmund
-R16 Game 1,Atalanta,Valencia,4 - 1,Atalanta
-R16 Game 1,Tottenham,Leipzig,0 - 1,Leipzig
-R16 Game 1,Chelsea,Bayern Munich,0 - 3,Bayern
-R16 Game 1,Napoli,FC Barcelona,1 - 1,Draw
-R16 Game 1,Lyon,Juventus,1 - 0,Lyon
-R16 Game 1,Real Madrid,Manchester City,1 - 2,Man. City
-R16 Game 2,Valencia,Atalanta,3 - 4,Atalanta
-R16 Game 2,Leipzig,Tottenham,3 - 0,Leipzig
-R16 Game 2,Liverpool,Atletico de Madrid,2 - 3,Atlético
-R16 Game 2,Paris,Borussia Dortmund,2 - 0,Paris
-R16 Game 2,Juventus,Lyon,2 - 1,Juventus
-R16 Game 2,Manchester City,Real Madrid,2 - 1,Man. City
-R16 Game 2,Bayern Munich,Chelsea,4 - 1,Bayern
-R16 Game 2,FC Barcelona,Napoli,3 - 1,Barcelona
-Quarter Finals,Atalanta,Paris,1 - 2,Paris
-Quarter Finals,Leipzig,Atletico de Madrid,2 - 1,Leipzig
-Quarter Finals,FC Barcelona,Bayern Munich,2 - 8,Bayern
-Quarter Finals,Manchester City,Lyon,1 - 3,Lyon
-Semi Finals,Leipzig,Paris,0 - 3,Paris
-Semi Finals,Lyon,Bayern Munich,0 - 3,Bayern
-Final,Paris,Bayern Munich,0 - 1,Bayern
+Round Number,Home Team,Away Team,Result,Home Goals,Away Goals
+1,Internazionale,Slavia Praha,1 - 1,1.0,1.0
+1,Lyon,Zenit,1 - 1,1.0,1.0
+1,Napoli,Liverpool,2 - 0,2.0,0.0
+1,Salzburg,Genk,6 - 2,6.0,2.0
+1,Dortmund,Barcelona,0 - 0,0.0,0.0
+1,Benfica,Leipzig,1 - 2,1.0,2.0
+1,Chelsea,Valencia,0 - 1,0.0,1.0
+1,Ajax,LOSC,3 - 0,3.0,0.0
+1,Club Brugge,Galatasaray,0 - 0,0.0,0.0
+1,Olympiacos,Tottenham,2 - 2,2.0,2.0
+1,Paris,Real Madrid,3 - 0,3.0,0.0
+1,Bayern,Crvena zvezda,3 - 0,3.0,0.0
+1,Dinamo Zagreb,Atalanta,4 - 0,4.0,0.0
+1,Shakhtar Donetsk,Man. City,0 - 3,0.0,3.0
+1,Leverkusen,Lokomotiv Moskva,1 - 2,1.0,2.0
+1,Atlético,Juventus,2 - 2,2.0,2.0
+2,Real Madrid,Club Brugge,2 - 2,2.0,2.0
+2,Atalanta,Shakhtar Donetsk,1 - 2,1.0,2.0
+2,Galatasaray,Paris,0 - 1,0.0,1.0
+2,Tottenham,Bayern,2 - 7,2.0,7.0
+2,Crvena zvezda,Olympiacos,3 - 1,3.0,1.0
+2,Man. City,Dinamo Zagreb,2 - 0,2.0,0.0
+2,Juventus,Leverkusen,3 - 0,3.0,0.0
+2,Lokomotiv Moskva,Atlético,0 - 2,0.0,2.0
+2,Genk,Napoli,0 - 0,0.0,0.0
+2,Slavia Praha,Dortmund,0 - 2,0.0,2.0
+2,Liverpool,Salzburg,4 - 3,4.0,3.0
+2,Barcelona,Internazionale,2 - 1,2.0,1.0
+2,Leipzig,Lyon,0 - 2,0.0,2.0
+2,Zenit,Benfica,3 - 1,3.0,1.0
+2,LOSC,Chelsea,1 - 2,1.0,2.0
+2,Valencia,Ajax,0 - 3,0.0,3.0
+3,Shakhtar Donetsk,Dinamo Zagreb,2 - 2,2.0,2.0
+3,Atlético,Leverkusen,1 - 0,1.0,0.0
+3,Club Brugge,Paris,0 - 5,0.0,5.0
+3,Galatasaray,Real Madrid,0 - 1,0.0,1.0
+3,Olympiacos,Bayern,2 - 3,2.0,3.0
+3,Tottenham,Crvena zvezda,5 - 0,5.0,0.0
+3,Man. City,Atalanta,5 - 1,5.0,1.0
+3,Juventus,Lokomotiv Moskva,2 - 1,2.0,1.0
+3,Leipzig,Zenit,2 - 1,2.0,1.0
+3,Ajax,Chelsea,0 - 1,0.0,1.0
+3,Salzburg,Napoli,2 - 3,2.0,3.0
+3,Genk,Liverpool,1 - 4,1.0,4.0
+3,Internazionale,Dortmund,2 - 0,2.0,0.0
+3,Slavia Praha,Barcelona,1 - 2,1.0,2.0
+3,Benfica,Lyon,2 - 1,2.0,1.0
+3,LOSC,Valencia,1 - 1,1.0,1.0
+4,Barcelona,Slavia Praha,0 - 0,0.0,0.0
+4,Zenit,Leipzig,0 - 2,0.0,2.0
+4,Napoli,Salzburg,1 - 1,1.0,1.0
+4,Liverpool,Genk,2 - 1,2.0,1.0
+4,Dortmund,Internazionale,3 - 2,3.0,2.0
+4,Lyon,Benfica,3 - 1,3.0,1.0
+4,Chelsea,Ajax,4 - 4,4.0,4.0
+4,Valencia,LOSC,4 - 1,4.0,1.0
+4,Bayern,Olympiacos,2 - 0,2.0,0.0
+4,Lokomotiv Moskva,Juventus,1 - 2,1.0,2.0
+4,Paris,Club Brugge,1 - 0,1.0,0.0
+4,Real Madrid,Galatasaray,6 - 0,6.0,0.0
+4,Crvena zvezda,Tottenham,0 - 4,0.0,4.0
+4,Dinamo Zagreb,Shakhtar Donetsk,3 - 3,3.0,3.0
+4,Atalanta,Man. City,1 - 1,1.0,1.0
+4,Leverkusen,Atlético,2 - 1,2.0,1.0
+5,Galatasaray,Club Brugge,1 - 1,1.0,1.0
+5,Lokomotiv Moskva,Leverkusen,0 - 2,0.0,2.0
+5,Real Madrid,Paris,2 - 2,2.0,2.0
+5,Crvena zvezda,Bayern,0 - 6,0.0,6.0
+5,Tottenham,Olympiacos,4 - 2,4.0,2.0
+5,Atalanta,Dinamo Zagreb,2 - 0,2.0,0.0
+5,Man. City,Shakhtar Donetsk,1 - 1,1.0,1.0
+5,Juventus,Atlético,1 - 0,1.0,0.0
+5,Zenit,Lyon,2 - 0,2.0,0.0
+5,Valencia,Chelsea,2 - 2,2.0,2.0
+5,Liverpool,Napoli,1 - 1,1.0,1.0
+5,Genk,Salzburg,1 - 4,1.0,4.0
+5,Barcelona,Dortmund,3 - 1,3.0,1.0
+5,Slavia Praha,Internazionale,1 - 3,1.0,3.0
+5,Leipzig,Benfica,2 - 2,2.0,2.0
+5,LOSC,Ajax,0 - 2,0.0,2.0
+6,Napoli,Genk,4 - 0,4.0,0.0
+6,Salzburg,Liverpool,0 - 2,0.0,2.0
+6,Dortmund,Slavia Praha,2 - 1,2.0,1.0
+6,Internazionale,Barcelona,1 - 2,1.0,2.0
+6,Lyon,Leipzig,2 - 2,2.0,2.0
+6,Benfica,Zenit,3 - 0,3.0,0.0
+6,Chelsea,LOSC,2 - 1,2.0,1.0
+6,Ajax,Valencia,0 - 1,0.0,1.0
+6,Dinamo Zagreb,Man. City,1 - 4,1.0,4.0
+6,Shakhtar Donetsk,Atalanta,0 - 3,0.0,3.0
+6,Paris,Galatasaray,5 - 0,5.0,0.0
+6,Club Brugge,Real Madrid,1 - 3,1.0,3.0
+6,Bayern,Tottenham,3 - 1,3.0,1.0
+6,Olympiacos,Crvena zvezda,1 - 0,1.0,0.0
+6,Leverkusen,Juventus,0 - 2,0.0,2.0
+6,Atlético,Lokomotiv Moskva,2 - 0,2.0,0.0
+R16 Game 1,Atlético,Liverpool,1 - 0,1.0,0.0
+R16 Game 1,Dortmund,Paris,2 - 1,2.0,1.0
+R16 Game 1,Atalanta,Valencia,4 - 1,4.0,1.0
+R16 Game 1,Tottenham,Leipzig,0 - 1,0.0,1.0
+R16 Game 1,Chelsea,Bayern,0 - 3,0.0,3.0
+R16 Game 1,Napoli,Barcelona,1 - 1,1.0,1.0
+R16 Game 1,Lyon,Juventus,1 - 0,1.0,0.0
+R16 Game 1,Real Madrid,Man. City,1 - 2,1.0,2.0
+R16 Game 2,Valencia,Atalanta,3 - 4,3.0,4.0
+R16 Game 2,Leipzig,Tottenham,3 - 0,3.0,0.0
+R16 Game 2,Liverpool,Atlético,2 - 3,2.0,3.0
+R16 Game 2,Paris,Dortmund,2 - 0,2.0,0.0
+R16 Game 2,Juventus,Lyon,2 - 1,2.0,1.0
+R16 Game 2,Man. City,Real Madrid,2 - 1,2.0,1.0
+R16 Game 2,Bayern,Chelsea,4 - 1,4.0,1.0
+R16 Game 2,Barcelona,Napoli,3 - 1,3.0,1.0
+Quarter Finals,Atalanta,Paris,1 - 2,1.0,2.0
+Quarter Finals,Leipzig,Atlético,2 - 1,2.0,1.0
+Quarter Finals,Barcelona,Bayern,2 - 8,2.0,8.0
+Quarter Finals,Man. City,Lyon,1 - 3,1.0,3.0
+Semi Finals,Leipzig,Paris,0 - 3,0.0,3.0
+Semi Finals,Lyon,Bayern,0 - 3,0.0,3.0
+Final,Paris,Bayern,0 - 1,0.0,1.0

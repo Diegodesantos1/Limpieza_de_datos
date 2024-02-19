@@ -1,113 +1,113 @@
-Round Number,Home Team,Away Team,Result,Winner
-1,AC Milan,Newcastle,0 - 0,Draw
-1,Young Boys,Leipzig,1 - 3,Leipzig
-1,Feyenoord,Celtic,2 - 0,Feyenoord
-1,Lazio,Atletico de Madrid,1 - 1,Draw
-1,Paris,Borussia Dortmund,2 - 0,Paris
-1,Manchester City,Crvena zvezda,3 - 1,Man City
-1,FC Barcelona,Antwerp,5 - 0,Barcelona
-1,Shakhtar Donetsk,FC Porto,1 - 3,FC Porto
-1,Galatasaray,Copenhagen,2 - 2,Draw
-1,Real Madrid,Union Berlin,1 - 0,Real Madrid
-1,Bayern Munich,Manchester United,4 - 3,Bayern
-1,Sevilla,Lens,1 - 1,Draw
-1,Arsenal,PSV,4 - 0,Arsenal
-1,Braga,Napoli,1 - 2,Napoli
-1,Real Sociedad,Internazionale,1 - 1,Draw
-1,Benfica,Salzburg,0 - 2,Salzburg
-2,Union Berlin,Braga,2 - 3,Braga
-2,Salzburg,Real Sociedad,0 - 2,Real Sociedad
-2,Manchester United,Galatasaray,2 - 3,Galatasaray
-2,Copenhagen,Bayern Munich,1 - 2,Bayern
-2,Lens,Arsenal,2 - 1,Lens
-2,PSV,Sevilla,2 - 2,Draw
-2,Napoli,Real Madrid,2 - 3,Real Madrid
-2,Internazionale,Benfica,1 - 0,Inter
-2,Atletico de Madrid,Feyenoord,3 - 2,Atlético de Madrid
-2,Antwerp,Shakhtar Donetsk,2 - 3,Shakhtar Donetsk
-2,Celtic,Lazio,1 - 2,Lazio
-2,Borussia Dortmund,AC Milan,0 - 0,Draw
-2,Newcastle,Paris,4 - 1,Newcastle
-2,Leipzig,Manchester City,1 - 3,Man City
-2,Crvena zvezda,Young Boys,2 - 2,Draw
-2,FC Porto,FC Barcelona,0 - 1,Barcelona
-3,Galatasaray,Bayern Munich,1 - 3,Bayern
-3,Internazionale,Salzburg,2 - 1,Inter
-3,Manchester United,Copenhagen,1 - 0,Man United
-3,Sevilla,Arsenal,1 - 2,Arsenal
-3,Lens,PSV,1 - 1,Draw
-3,Braga,Real Madrid,1 - 2,Real Madrid
-3,Union Berlin,Napoli,0 - 1,Napoli
-3,Benfica,Real Sociedad,0 - 1,Real Sociedad
-3,Feyenoord,Lazio,3 - 1,Feyenoord
-3,FC Barcelona,Shakhtar Donetsk,2 - 1,Barcelona
-3,Celtic,Atletico de Madrid,2 - 2,Draw
-3,Paris,AC Milan,3 - 0,Paris
-3,Newcastle,Borussia Dortmund,0 - 1,Dortmund
-3,Leipzig,Crvena zvezda,3 - 1,Leipzig
-3,Young Boys,Manchester City,1 - 3,Man City
-3,Antwerp,FC Porto,1 - 4,FC Porto
-4,Borussia Dortmund,Newcastle,2 - 0,Dortmund
-4,Shakhtar Donetsk,FC Barcelona,1 - 0,Shakhtar Donetsk
-4,Atletico de Madrid,Celtic,6 - 0,Atlético de Madrid
-4,Lazio,Feyenoord,1 - 0,Lazio
-4,AC Milan,Paris,2 - 1,Milan
-4,Manchester City,Young Boys,3 - 0,Man City
-4,Crvena zvezda,Leipzig,1 - 2,Leipzig
-4,FC Porto,Antwerp,2 - 0,FC Porto
-4,Napoli,Union Berlin,1 - 1,Draw
-4,Real Sociedad,Benfica,3 - 1,Real Sociedad
-4,Bayern Munich,Galatasaray,2 - 1,Bayern
-4,Copenhagen,Manchester United,4 - 3,Copenhagen
-4,Arsenal,Sevilla,2 - 0,Arsenal
-4,PSV,Lens,1 - 0,PSV
-4,Real Madrid,Braga,3 - 0,Real Madrid
-4,Salzburg,Internazionale,0 - 1,Inter
-5,Lazio,Celtic,2 - 0,Lazio
-5,Shakhtar Donetsk,Antwerp,1 - 0,Shakhtar Donetsk
-5,Feyenoord,Atletico de Madrid,1 - 3,Atlético de Madrid
-5,Paris,Newcastle,1 - 1,Draw
-5,AC Milan,Borussia Dortmund,1 - 3,Dortmund
-5,Manchester City,Leipzig,3 - 2,Man City
-5,Young Boys,Crvena zvezda,2 - 0,Young Boys
-5,FC Barcelona,FC Porto,2 - 1,Barcelona
-5,Galatasaray,Manchester United,3 - 3,Draw
-5,Sevilla,PSV,2 - 3,PSV
-5,Bayern Munich,Copenhagen,0 - 0,Draw
-5,Arsenal,Lens,6 - 0,Arsenal
-5,Real Madrid,Napoli,4 - 2,Real Madrid
-5,Braga,Union Berlin,1 - 1,Draw
-5,Benfica,Internazionale,3 - 3,Draw
-5,Real Sociedad,Salzburg,0 - 0,Draw
-6,Lens,Sevilla,2 - 1,Lens
-6,PSV,Arsenal,1 - 1,Draw
-6,Manchester United,Bayern Munich,0 - 1,Bayern
-6,Copenhagen,Galatasaray,1 - 0,Copenhagen
-6,Napoli,Braga,2 - 0,Napoli
-6,Union Berlin,Real Madrid,2 - 3,Real Madrid
-6,Internazionale,Real Sociedad,0 - 0,Draw
-6,Salzburg,Benfica,1 - 3,Benfica
-6,Leipzig,Young Boys,2 - 1,Leipzig
-6,Crvena zvezda,Manchester City,2 - 3,Man City
-6,Atletico de Madrid,Lazio,2 - 0,Atlético de Madrid
-6,Celtic,Feyenoord,2 - 1,Celtic
-6,Borussia Dortmund,Paris,1 - 1,Draw
-6,Newcastle,AC Milan,1 - 2,Milan
-6,FC Porto,Shakhtar Donetsk,5 - 3,FC Porto
-6,Antwerp,FC Barcelona,3 - 2,Antwerp
-R16 Game 1,Leipzig,Real Madrid,,Draw
-R16 Game 1,Copenhagen,Manchester City,,Draw
-R16 Game 1,Lazio,Bayern Munich,,Draw
-R16 Game 1,Paris,Real Sociedad,,Draw
-R16 Game 1,Internazionale,Atletico de Madrid,,Draw
-R16 Game 1,PSV,Borussia Dortmund,,Draw
-R16 Game 1,FC Porto,Arsenal,,Draw
-R16 Game 1,Napoli,FC Barcelona,,Draw
-R16 Game 2,Bayern Munich,Lazio,,Draw
-R16 Game 2,Real Sociedad,Paris,,Draw
-R16 Game 2,Real Madrid,Leipzig,,Draw
-R16 Game 2,Manchester City,Copenhagen,,Draw
-R16 Game 2,Arsenal,FC Porto,,Draw
-R16 Game 2,FC Barcelona,Napoli,,Draw
-R16 Game 2,Atletico de Madrid,Internazionale,,Draw
-R16 Game 2,Borussia Dortmund,PSV,,Draw
+Round Number,Home Team,Away Team,Result,Home Goals,Away Goals
+1,Milan,Newcastle,0 - 0,0.0,0.0
+1,Young Boys,Leipzig,1 - 3,1.0,3.0
+1,Feyenoord,Celtic,2 - 0,2.0,0.0
+1,Lazio,Atlético de Madrid,1 - 1,1.0,1.0
+1,Paris,Dortmund,2 - 0,2.0,0.0
+1,Man City,Crvena zvezda,3 - 1,3.0,1.0
+1,Barcelona,Antwerp,5 - 0,5.0,0.0
+1,Shakhtar Donetsk,FC Porto,1 - 3,1.0,3.0
+1,Galatasaray,Copenhagen,2 - 2,2.0,2.0
+1,Real Madrid,Union Berlin,1 - 0,1.0,0.0
+1,Bayern,Man United,4 - 3,4.0,3.0
+1,Sevilla,Lens,1 - 1,1.0,1.0
+1,Arsenal,PSV,4 - 0,4.0,0.0
+1,Braga,Napoli,1 - 2,1.0,2.0
+1,Real Sociedad,Inter,1 - 1,1.0,1.0
+1,Benfica,Salzburg,0 - 2,0.0,2.0
+2,Union Berlin,Braga,2 - 3,2.0,3.0
+2,Salzburg,Real Sociedad,0 - 2,0.0,2.0
+2,Man United,Galatasaray,2 - 3,2.0,3.0
+2,Copenhagen,Bayern,1 - 2,1.0,2.0
+2,Lens,Arsenal,2 - 1,2.0,1.0
+2,PSV,Sevilla,2 - 2,2.0,2.0
+2,Napoli,Real Madrid,2 - 3,2.0,3.0
+2,Inter,Benfica,1 - 0,1.0,0.0
+2,Atlético de Madrid,Feyenoord,3 - 2,3.0,2.0
+2,Antwerp,Shakhtar Donetsk,2 - 3,2.0,3.0
+2,Celtic,Lazio,1 - 2,1.0,2.0
+2,Dortmund,Milan,0 - 0,0.0,0.0
+2,Newcastle,Paris,4 - 1,4.0,1.0
+2,Leipzig,Man City,1 - 3,1.0,3.0
+2,Crvena zvezda,Young Boys,2 - 2,2.0,2.0
+2,FC Porto,Barcelona,0 - 1,0.0,1.0
+3,Galatasaray,Bayern,1 - 3,1.0,3.0
+3,Inter,Salzburg,2 - 1,2.0,1.0
+3,Man United,Copenhagen,1 - 0,1.0,0.0
+3,Sevilla,Arsenal,1 - 2,1.0,2.0
+3,Lens,PSV,1 - 1,1.0,1.0
+3,Braga,Real Madrid,1 - 2,1.0,2.0
+3,Union Berlin,Napoli,0 - 1,0.0,1.0
+3,Benfica,Real Sociedad,0 - 1,0.0,1.0
+3,Feyenoord,Lazio,3 - 1,3.0,1.0
+3,Barcelona,Shakhtar Donetsk,2 - 1,2.0,1.0
+3,Celtic,Atlético de Madrid,2 - 2,2.0,2.0
+3,Paris,Milan,3 - 0,3.0,0.0
+3,Newcastle,Dortmund,0 - 1,0.0,1.0
+3,Leipzig,Crvena zvezda,3 - 1,3.0,1.0
+3,Young Boys,Man City,1 - 3,1.0,3.0
+3,Antwerp,FC Porto,1 - 4,1.0,4.0
+4,Dortmund,Newcastle,2 - 0,2.0,0.0
+4,Shakhtar Donetsk,Barcelona,1 - 0,1.0,0.0
+4,Atlético de Madrid,Celtic,6 - 0,6.0,0.0
+4,Lazio,Feyenoord,1 - 0,1.0,0.0
+4,Milan,Paris,2 - 1,2.0,1.0
+4,Man City,Young Boys,3 - 0,3.0,0.0
+4,Crvena zvezda,Leipzig,1 - 2,1.0,2.0
+4,FC Porto,Antwerp,2 - 0,2.0,0.0
+4,Napoli,Union Berlin,1 - 1,1.0,1.0
+4,Real Sociedad,Benfica,3 - 1,3.0,1.0
+4,Bayern,Galatasaray,2 - 1,2.0,1.0
+4,Copenhagen,Man United,4 - 3,4.0,3.0
+4,Arsenal,Sevilla,2 - 0,2.0,0.0
+4,PSV,Lens,1 - 0,1.0,0.0
+4,Real Madrid,Braga,3 - 0,3.0,0.0
+4,Salzburg,Inter,0 - 1,0.0,1.0
+5,Lazio,Celtic,2 - 0,2.0,0.0
+5,Shakhtar Donetsk,Antwerp,1 - 0,1.0,0.0
+5,Feyenoord,Atlético de Madrid,1 - 3,1.0,3.0
+5,Paris,Newcastle,1 - 1,1.0,1.0
+5,Milan,Dortmund,1 - 3,1.0,3.0
+5,Man City,Leipzig,3 - 2,3.0,2.0
+5,Young Boys,Crvena zvezda,2 - 0,2.0,0.0
+5,Barcelona,FC Porto,2 - 1,2.0,1.0
+5,Galatasaray,Man United,3 - 3,3.0,3.0
+5,Sevilla,PSV,2 - 3,2.0,3.0
+5,Bayern,Copenhagen,0 - 0,0.0,0.0
+5,Arsenal,Lens,6 - 0,6.0,0.0
+5,Real Madrid,Napoli,4 - 2,4.0,2.0
+5,Braga,Union Berlin,1 - 1,1.0,1.0
+5,Benfica,Inter,3 - 3,3.0,3.0
+5,Real Sociedad,Salzburg,0 - 0,0.0,0.0
+6,Lens,Sevilla,2 - 1,2.0,1.0
+6,PSV,Arsenal,1 - 1,1.0,1.0
+6,Man United,Bayern,0 - 1,0.0,1.0
+6,Copenhagen,Galatasaray,1 - 0,1.0,0.0
+6,Napoli,Braga,2 - 0,2.0,0.0
+6,Union Berlin,Real Madrid,2 - 3,2.0,3.0
+6,Inter,Real Sociedad,0 - 0,0.0,0.0
+6,Salzburg,Benfica,1 - 3,1.0,3.0
+6,Leipzig,Young Boys,2 - 1,2.0,1.0
+6,Crvena zvezda,Man City,2 - 3,2.0,3.0
+6,Atlético de Madrid,Lazio,2 - 0,2.0,0.0
+6,Celtic,Feyenoord,2 - 1,2.0,1.0
+6,Dortmund,Paris,1 - 1,1.0,1.0
+6,Newcastle,Milan,1 - 2,1.0,2.0
+6,FC Porto,Shakhtar Donetsk,5 - 3,5.0,3.0
+6,Antwerp,Barcelona,3 - 2,3.0,2.0
+R16 Game 1,Leipzig,Real Madrid,,,
+R16 Game 1,Copenhagen,Man City,,,
+R16 Game 1,Lazio,Bayern,,,
+R16 Game 1,Paris,Real Sociedad,,,
+R16 Game 1,Inter,Atlético de Madrid,,,
+R16 Game 1,PSV,Dortmund,,,
+R16 Game 1,FC Porto,Arsenal,,,
+R16 Game 1,Napoli,Barcelona,,,
+R16 Game 2,Bayern,Lazio,,,
+R16 Game 2,Real Sociedad,Paris,,,
+R16 Game 2,Real Madrid,Leipzig,,,
+R16 Game 2,Man City,Copenhagen,,,
+R16 Game 2,Arsenal,FC Porto,,,
+R16 Game 2,Barcelona,Napoli,,,
+R16 Game 2,Atlético de Madrid,Inter,,,
+R16 Game 2,Dortmund,PSV,,,

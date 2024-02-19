@@ -1,135 +1,134 @@
-Round Number,Home Team,Away Team,Result,Winner
-1,Real Madrid,Basel,5 - 1,Real Madrid
-1,Liverpool,Ludogorets Razgrad,2 - 1,Liverpool
-1,Benfica,Zenit,0 - 2,Zenit
-1,Monaco,Bayer Leverkusen,1 - 0,Monaco
-1,Galatasaray,Anderlecht,1 - 1,Draw
-1,Olympiacos,Atlético Madrid,3 - 2,Olympiacos
-1,Borussia Dortmund,Arsenal,2 - 0,Borussia Dortmund
-1,Juventus,Malmö FF,2 - 0,Juventus
-1,BATE Borisov,Shakhtar Donetsk,2 - 1,BATE Borisov
-1,Manchester City,Bayern Munich,1 - 0,Manchester City
-1,Paris Saint-Germain,Ajax,3 - 1,Paris Saint-Germain
-1,Barcelona,APOEL,1 - 0,Barcelona
-1,Chelsea,Schalke 04,1 - 1,Draw
-1,FC Porto,BATE Borisov,6 - 0,FC Porto
-1,Roma,CSKA Moscow,5 - 1,Roma
-1,Athletic Bilbao,Shakhtar Donetsk,0 - 0,Draw
-2,Ajax,Paris Saint-Germain,1 - 1,Draw
-2,Malmö FF,Juventus,0 - 2,Juventus
-2,Bayer Leverkusen,Benfica,3 - 1,Bayer Leverkusen
-2,Ludogorets Razgrad,Real Madrid,1 - 2,Real Madrid
-2,Arsenal,Galatasaray,4 - 1,Arsenal
-2,APOEL,Barcelona,1 - 0,APOEL
-2,Atlético Madrid,Olympiacos,4 - 0,Atlético Madrid
-2,Zenit,Monaco,0 - 0,Draw
-2,Schalke 04,Chelsea,1 - 1,Draw
-2,Bayern Munich,Manchester City,1 - 0,Bayern Munich
-2,Shakhtar Donetsk,FC Porto,2 - 2,Draw
-2,BATE Borisov,Athletic Bilbao,2 - 1,BATE Borisov
-2,CSKA Moscow,Roma,1 - 1,Draw
-2,Anderlecht,Borussia Dortmund,0 - 3,Borussia Dortmund
-2,Leverkusen,Zenit,2 - 0,Leverkusen
-2,Real Madrid,Liverpool,1 - 0,Real Madrid
-3,Paris Saint-Germain,Ajax,3 - 1,Paris Saint-Germain
-3,Juventus,Olympiacos,3 - 2,Juventus
-3,Benfica,Monaco,1 - 0,Benfica
-3,Atletico Madrid,Malmö FF,5 - 0,Atletico Madrid
-3,Arsenal,Anderlecht,3 - 3,Draw
-3,Barcelona,Ajax,3 - 1,Barcelona
-3,Shakhtar Donetsk,BATE Borisov,5 - 0,Shakhtar Donetsk
-3,Bayern Munich,Roma,7 - 1,Bayern Munich
-3,Chelsea,Maribor,6 - 0,Chelsea
-3,FC Porto,Athletic Bilbao,2 - 1,FC Porto
-3,Ludogorets Razgrad,Basel,1 - 0,Ludogorets Razgrad
-3,Liverpool,Real Madrid,0 - 3,Real Madrid
-3,Borussia Dortmund,Galatasaray,4 - 1,Borussia Dortmund
-3,Zenit,Leverkusen,1 - 2,Leverkusen
-3,CSKA Moscow,Man City,2 - 2,Draw
-3,FC Barcelona,Paris Saint-Germain,3 - 1,FC Barcelona
-4,Ajax,FC Barcelona,0 - 2,FC Barcelona
-4,Athletic Bilbao,FC Porto,0 - 2,FC Porto
-4,Maribor,Chelsea,1 - 1,Draw
-4,Roma,Bayern Munich,1 - 7,Bayern Munich
-4,Basel,Liverpool,1 - 0,Basel
-4,Liverpool,Real Madrid,0 - 3,Real Madrid
-4,Ludogorets Razgrad,Arsenal,2 - 2,Draw
-4,Shakhtar Donetsk,Borussia Dortmund,2 - 2,Draw
-4,Anderlecht,FC Porto,1 - 3,FC Porto
-4,BATE Borisov,Shakhtar Donetsk,0 - 5,Shakhtar Donetsk
-4,Manchester City,CSKA Moscow,1 - 2,CSKA Moscow
-4,Zenit,Benfica,1 - 0,Zenit
-4,Paris Saint-Germain,APOEL,1 - 0,Paris Saint-Germain
-4,Barcelona,Ajax,3 - 1,Barcelona
-4,Leverkusen,Zenit,2 - 0,Leverkusen
-4,Borussia Dortmund,Galatasaray,4 - 1,Borussia Dortmund
-4,Chelsea,Maribor,6 - 0,Chelsea
-5,Real Madrid,Liverpool,1 - 0,Real Madrid
-5,FC Porto,Athletic Bilbao,2 - 0,FC Porto
-5,FC Barcelona,Ajax,3 - 1,FC Barcelona
-5,Paris Saint-Germain,apoel,1 - 0,Paris Saint-Germain
-5,Bayern Munich,Roma,2 - 0,Bayern Munich
-5,Maribor,Chelsea,1 - 1,Draw
-5,Basel,Liverpool,1 - 0,Basel
-5,Liverpool,Real Madrid,0 - 3,Real Madrid
-5,Ludogorets Razgrad,Arsenal,2 - 2,Draw
-5,Shakhtar Donetsk,Borussia Dortmund,2 - 2,Draw
-5,Anderlecht,FC Porto,1 - 3,FC Porto
-5,BATE Borisov,Shakhtar Donetsk,0 - 5,Shakhtar Donetsk
-5,Manchester City,CSKA Moscow,1 - 2,CSKA Moscow
-5,Zenit,Benfica,1 - 0,Zenit
-5,Paris Saint-Germain,APOEL,1 - 0,Paris Saint-Germain
-5,Barcelona,Ajax,3 - 1,Barcelona
-5,Leverkusen,Zenit,2 - 0,Leverkusen
-5,Borussia Dortmund,Galatasaray,4 - 1,Borussia Dortmund
-5,Chelsea,Maribor,6 - 0,Chelsea
-6,FC Porto,Athletic Bilbao,2 - 0,FC Porto
-6,FC Barcelona,Ajax,3 - 1,FC Barcelona
-6,Paris Saint-Germain,apoel,1 - 0,Paris Saint-Germain
-6,Bayern Munich,Roma,2 - 0,Bayern Munich
-6,Maribor,Chelsea,1 - 1,Draw
-6,Basel,Liverpool,1 - 0,Basel
-6,Liverpool,Real Madrid,0 - 3,Real Madrid
-6,Ludogorets Razgrad,Arsenal,2 - 2,Draw
-6,Shakhtar Donetsk,Borussia Dortmund,2 - 2,Draw
-6,Anderlecht,FC Porto,1 - 3,FC Porto
-6,BATE Borisov,Shakhtar Donetsk,0 - 5,Shakhtar Donetsk
-6,Manchester City,CSKA Moscow,1 - 2,CSKA Moscow
-6,Zenit,Benfica,1 - 0,Zenit
-6,Paris Saint-Germain,APOEL,1 - 0,Paris Saint-Germain
-6,Barcelona,Ajax,3 - 1,Barcelona
-6,Leverkusen,Zenit,2 - 0,Leverkusen
-6,Borussia Dortmund,Galatasaray,4 - 1,Borussia Dortmund
-6,Chelsea,Maribor,6 - 0,Chelsea
-Round of 16 - Game 2,Basel,Porto,1 - 1,Draw
-Round of 16 - Game 2,Real Madrid,Liverpool,1 - 0,Real Madrid
-Round of 16 - Game 2,Liverpool,Real Madrid,0 - 3,Real Madrid
-Round of 16 - Game 2,Porto,Basel,4 - 0,Porto
-Round of 16 - Game 2,Shakhtar Donetsk,Borussia Dortmund,3 - 0,Shakhtar Donetsk
-Round of 16 - Game 2,Borussia Dortmund,Shakhtar Donetsk,2 - 2,Draw
-Round of 16 - Game 2,CSKA Moscow,Manchester City,0 - 2,Manchester City
-Round of 16 - Game 2,Manchester City,CSKA Moscow,1 - 2,CSKA Moscow
-Round of 16 - Game 2,Zenit,Leverkusen,1 - 2,Leverkusen
-Round of 16 - Game 2,Leverkusen,Zenit,2 - 0,Leverkusen
-Round of 16 - Game 2,Maribor,Chelsea,1 - 1,Draw
-Round of 16 - Game 2,Chelsea,Maribor,6 - 0,Chelsea
-Round of 16 - Game 2,Benfica,Zenit,0 - 2,Zenit
-Round of 16 - Game 2,Atletico Madrid,Leverkusen,1 - 0,Atletico Madrid
-Round of 16 - Game 2,Monaco,Arsenal,0 - 2,Arsenal
-Round of 16 - Game 2,Arsenal,Monaco,2 - 0,Arsenal
-Round of 16 - Game 2,Barcelona,Man City,1 - 0,Barcelona
-Round of 16 - Game 2,Man City,Barcelona,1 - 0,Man City
-Qtr Finals - Game 2,Bayern Munich,Porto,6 - 1,Bayern Munich
-Qtr Finals - Game 2,Porto,Bayern Munich,3 - 1,Porto
-Qtr Finals - Game 2,Real Madrid,Atletico Madrid,1 - 0,Real Madrid
-Qtr Finals - Game 2,Atletico Madrid,Real Madrid,0 - 0,Draw
-Qtr Finals - Game 2,Paris Saint-Germain,Barcelona,1 - 3,Barcelona
-Qtr Finals - Game 2,Barcelona,Paris Saint-Germain,2 - 0,Barcelona
-Qtr Finals - Game 2,FC Porto,Bayern Munich,3 - 1,FC Porto
-Qtr Finals - Game 2,Bayern Munich,FC Porto,6 - 1,Bayern Munich
-Semi Finals - Game 2,Real Madrid,Juventus,1 - 1,Draw
-Semi Finals - Game 2,Juventus,Real Madrid,2 - 1,Juventus
-Semi Finals - Game 2,Barcelona,Bayern Munich,3 - 0,Barcelona
-Semi Finals - Game 2,Bayern Munich,Barcelona,3 - 2,Bayern Munich
-Final,Barcelona,Juventus,3 - 1,Barcelona
-
+Round Number,Home Team,Away Team,Result,Winner,Home Goals,Away Goals
+1,Real Madrid,FC Basel,5 - 1,Real Madrid,,
+1,Liverpool,Ludogorets Razgrad,2 - 1,Liverpool,,
+1,Benfica,FC Zenit,0 - 2,Zenit,,
+1,AS Monaco,Bayer Leverkusen,1 - 0,Monaco,,
+1,Galatasaray,Anderlecht,1 - 1,Draw,,
+1,Olympiacos,Atletico de Madrid,3 - 2,Olympiacos,,
+1,Borussia Dortmund,Arsenal,2 - 0,Borussia Dortmund,,
+1,Juventus,Malmo FF,2 - 0,Juventus,,
+1,BATE Borisov,Shakhtar Donetsk,2 - 1,BATE Borisov,,
+1,Manchester City,Bayern Munich,1 - 0,Manchester City,,
+1,Paris Saint-Germain,Ajax,3 - 1,Paris Saint-Germain,,
+1,FC Barcelona,Apoel,1 - 0,Barcelona,,
+1,Chelsea,FC Schalke 04,1 - 1,Draw,,
+1,FC Porto,BATE Borisov,6 - 0,FC Porto,,
+1,AS Roma,CSKA Moscow,5 - 1,Roma,,
+1,Athletic Bilbao,Shakhtar Donetsk,0 - 0,Draw,,
+2,Ajax,Paris Saint-Germain,1 - 1,Draw,,
+2,Malmo FF,Juventus,0 - 2,Juventus,,
+2,Bayer Leverkusen,Benfica,3 - 1,Bayer Leverkusen,,
+2,Ludogorets Razgrad,Real Madrid,1 - 2,Real Madrid,,
+2,Arsenal,Galatasaray,4 - 1,Arsenal,,
+2,Apoel,FC Barcelona,1 - 0,APOEL,,
+2,Atletico de Madrid,Olympiacos,4 - 0,Atlético Madrid,,
+2,FC Zenit,AS Monaco,0 - 0,Draw,,
+2,FC Schalke 04,Chelsea,1 - 1,Draw,,
+2,Bayern Munich,Manchester City,1 - 0,Bayern Munich,,
+2,Shakhtar Donetsk,FC Porto,2 - 2,Draw,,
+2,BATE Borisov,Athletic Bilbao,2 - 1,BATE Borisov,,
+2,CSKA Moscow,AS Roma,1 - 1,Draw,,
+2,Anderlecht,Borussia Dortmund,0 - 3,Borussia Dortmund,,
+2,Bayer Leverkusen,FC Zenit,2 - 0,Leverkusen,,
+2,Real Madrid,Liverpool,1 - 0,Real Madrid,,
+3,Paris Saint-Germain,Ajax,3 - 1,Paris Saint-Germain,,
+3,Juventus,Olympiacos,3 - 2,Juventus,,
+3,Benfica,AS Monaco,1 - 0,Benfica,,
+3,Atletico de Madrid,Malmo FF,5 - 0,Atletico Madrid,,
+3,Arsenal,Anderlecht,3 - 3,Draw,,
+3,FC Barcelona,Ajax,3 - 1,Barcelona,,
+3,Shakhtar Donetsk,BATE Borisov,5 - 0,Shakhtar Donetsk,,
+3,Bayern Munich,AS Roma,7 - 1,Bayern Munich,,
+3,Chelsea,Maribor,6 - 0,Chelsea,,
+3,FC Porto,Athletic Bilbao,2 - 1,FC Porto,,
+3,Ludogorets Razgrad,FC Basel,1 - 0,Ludogorets Razgrad,,
+3,Liverpool,Real Madrid,0 - 3,Real Madrid,,
+3,Borussia Dortmund,Galatasaray,4 - 1,Borussia Dortmund,,
+3,FC Zenit,Bayer Leverkusen,1 - 2,Leverkusen,,
+3,CSKA Moscow,Manchester City,2 - 2,Draw,,
+3,FC Barcelona,Paris Saint-Germain,3 - 1,FC Barcelona,,
+4,Ajax,FC Barcelona,0 - 2,FC Barcelona,,
+4,Athletic Bilbao,FC Porto,0 - 2,FC Porto,,
+4,Maribor,Chelsea,1 - 1,Draw,,
+4,AS Roma,Bayern Munich,1 - 7,Bayern Munich,,
+4,FC Basel,Liverpool,1 - 0,Basel,,
+4,Liverpool,Real Madrid,0 - 3,Real Madrid,,
+4,Ludogorets Razgrad,Arsenal,2 - 2,Draw,,
+4,Shakhtar Donetsk,Borussia Dortmund,2 - 2,Draw,,
+4,Anderlecht,FC Porto,1 - 3,FC Porto,,
+4,BATE Borisov,Shakhtar Donetsk,0 - 5,Shakhtar Donetsk,,
+4,Manchester City,CSKA Moscow,1 - 2,CSKA Moscow,,
+4,FC Zenit,Benfica,1 - 0,Zenit,,
+4,Paris Saint-Germain,Apoel,1 - 0,Paris Saint-Germain,,
+4,FC Barcelona,Ajax,3 - 1,Barcelona,,
+4,Bayer Leverkusen,FC Zenit,2 - 0,Leverkusen,,
+4,Borussia Dortmund,Galatasaray,4 - 1,Borussia Dortmund,,
+4,Chelsea,Maribor,6 - 0,Chelsea,,
+5,Real Madrid,Liverpool,1 - 0,Real Madrid,,
+5,FC Porto,Athletic Bilbao,2 - 0,FC Porto,,
+5,FC Barcelona,Ajax,3 - 1,FC Barcelona,,
+5,Paris Saint-Germain,Apoel,1 - 0,Paris Saint-Germain,,
+5,Bayern Munich,AS Roma,2 - 0,Bayern Munich,,
+5,Maribor,Chelsea,1 - 1,Draw,,
+5,FC Basel,Liverpool,1 - 0,Basel,,
+5,Liverpool,Real Madrid,0 - 3,Real Madrid,,
+5,Ludogorets Razgrad,Arsenal,2 - 2,Draw,,
+5,Shakhtar Donetsk,Borussia Dortmund,2 - 2,Draw,,
+5,Anderlecht,FC Porto,1 - 3,FC Porto,,
+5,BATE Borisov,Shakhtar Donetsk,0 - 5,Shakhtar Donetsk,,
+5,Manchester City,CSKA Moscow,1 - 2,CSKA Moscow,,
+5,FC Zenit,Benfica,1 - 0,Zenit,,
+5,Paris Saint-Germain,Apoel,1 - 0,Paris Saint-Germain,,
+5,FC Barcelona,Ajax,3 - 1,Barcelona,,
+5,Bayer Leverkusen,FC Zenit,2 - 0,Leverkusen,,
+5,Borussia Dortmund,Galatasaray,4 - 1,Borussia Dortmund,,
+5,Chelsea,Maribor,6 - 0,Chelsea,,
+6,FC Porto,Athletic Bilbao,2 - 0,FC Porto,,
+6,FC Barcelona,Ajax,3 - 1,FC Barcelona,,
+6,Paris Saint-Germain,Apoel,1 - 0,Paris Saint-Germain,,
+6,Bayern Munich,AS Roma,2 - 0,Bayern Munich,,
+6,Maribor,Chelsea,1 - 1,Draw,,
+6,FC Basel,Liverpool,1 - 0,Basel,,
+6,Liverpool,Real Madrid,0 - 3,Real Madrid,,
+6,Ludogorets Razgrad,Arsenal,2 - 2,Draw,,
+6,Shakhtar Donetsk,Borussia Dortmund,2 - 2,Draw,,
+6,Anderlecht,FC Porto,1 - 3,FC Porto,,
+6,BATE Borisov,Shakhtar Donetsk,0 - 5,Shakhtar Donetsk,,
+6,Manchester City,CSKA Moscow,1 - 2,CSKA Moscow,,
+6,FC Zenit,Benfica,1 - 0,Zenit,,
+6,Paris Saint-Germain,Apoel,1 - 0,Paris Saint-Germain,,
+6,FC Barcelona,Ajax,3 - 1,Barcelona,,
+6,Bayer Leverkusen,FC Zenit,2 - 0,Leverkusen,,
+6,Borussia Dortmund,Galatasaray,4 - 1,Borussia Dortmund,,
+6,Chelsea,Maribor,6 - 0,Chelsea,,
+Round of 16 - Game 2,FC Basel,FC Porto,1 - 1,Draw,,
+Round of 16 - Game 2,Real Madrid,Liverpool,1 - 0,Real Madrid,,
+Round of 16 - Game 2,Liverpool,Real Madrid,0 - 3,Real Madrid,,
+Round of 16 - Game 2,FC Porto,FC Basel,4 - 0,Porto,,
+Round of 16 - Game 2,Shakhtar Donetsk,Borussia Dortmund,3 - 0,Shakhtar Donetsk,,
+Round of 16 - Game 2,Borussia Dortmund,Shakhtar Donetsk,2 - 2,Draw,,
+Round of 16 - Game 2,CSKA Moscow,Manchester City,0 - 2,Manchester City,,
+Round of 16 - Game 2,Manchester City,CSKA Moscow,1 - 2,CSKA Moscow,,
+Round of 16 - Game 2,FC Zenit,Bayer Leverkusen,1 - 2,Leverkusen,,
+Round of 16 - Game 2,Bayer Leverkusen,FC Zenit,2 - 0,Leverkusen,,
+Round of 16 - Game 2,Maribor,Chelsea,1 - 1,Draw,,
+Round of 16 - Game 2,Chelsea,Maribor,6 - 0,Chelsea,,
+Round of 16 - Game 2,Benfica,FC Zenit,0 - 2,Zenit,,
+Round of 16 - Game 2,Atletico de Madrid,Bayer Leverkusen,1 - 0,Atletico Madrid,,
+Round of 16 - Game 2,AS Monaco,Arsenal,0 - 2,Arsenal,,
+Round of 16 - Game 2,Arsenal,AS Monaco,2 - 0,Arsenal,,
+Round of 16 - Game 2,FC Barcelona,Manchester City,1 - 0,Barcelona,,
+Round of 16 - Game 2,Manchester City,FC Barcelona,1 - 0,Man City,,
+Qtr Finals - Game 2,Bayern Munich,FC Porto,6 - 1,Bayern Munich,,
+Qtr Finals - Game 2,FC Porto,Bayern Munich,3 - 1,Porto,,
+Qtr Finals - Game 2,Real Madrid,Atletico de Madrid,1 - 0,Real Madrid,,
+Qtr Finals - Game 2,Atletico de Madrid,Real Madrid,0 - 0,Draw,,
+Qtr Finals - Game 2,Paris Saint-Germain,FC Barcelona,1 - 3,Barcelona,,
+Qtr Finals - Game 2,FC Barcelona,Paris Saint-Germain,2 - 0,Barcelona,,
+Qtr Finals - Game 2,FC Porto,Bayern Munich,3 - 1,FC Porto,,
+Qtr Finals - Game 2,Bayern Munich,FC Porto,6 - 1,Bayern Munich,,
+Semi Finals - Game 2,Real Madrid,Juventus,1 - 1,Draw,,
+Semi Finals - Game 2,Juventus,Real Madrid,2 - 1,Juventus,,
+Semi Finals - Game 2,FC Barcelona,Bayern Munich,3 - 0,Barcelona,,
+Semi Finals - Game 2,Bayern Munich,FC Barcelona,3 - 2,Bayern Munich,,
+Final,FC Barcelona,Juventus,3 - 1,Barcelona,,
