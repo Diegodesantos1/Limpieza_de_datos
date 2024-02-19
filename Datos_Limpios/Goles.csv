@@ -1,90 +1,97 @@
-Equipo,Goles
-AC Milan,
-AEK,
-AS Monaco,
-AS Roma,
-Ajax,
-Anderlecht,
-Antwerp,
-Apoel,
-Arsenal,
-Astana,
-Atalanta,
-Athletic Bilbao,
-Atletico de Madrid,
-BATE Borisov,
-Bayer Leverkusen,
-Bayern Munich,
-Benfica,
-Besiktas,
-Borussia Dortmund,
-Borussia Mönchengladbach,
-Braga,
-CSKA Moscow,
-Celtic,
-Chelsea,
-Club Brugge,
-Copenhagen,
-Crvena zvezda,
-Dinamo Zagreb,
-Dynamo Kyiv,
-FC Barcelona,
-FC Basel,
-FC Porto,
-FC Schalke 04,
-FC Zenit,
-Ferencváros,
-Feyenoord,
-Frankfurt,
-Galatasaray,
-Genk,
-Gent,
-Hoffenheim,
-Internazionale,
-Istanbul Basaksehir,
-Juventus,
-Krasnodar,
-LOSC,
-Lazio,
-Leicester City,
-Leipzig,
-Lens,
-Liverpool,
-Lokomotiv Moskva,
-Ludogorets Razgrad,
-Lyon,
-M. Haifa,
-Maccabi Tel Aviv,
-Malmo FF,
-Manchester City,
-Manchester United,
-Maribor,
-Marseille,
-Midtjylland,
-Napoli,
-Newcastle,
-Olympiacos,
-PSV,
-Paris,
-Paris Saint-Germain,
-Plzen,
-Qarabag,
-RB Leipzig,
-Rangers,
-Real Madrid,
-Real Sociedad,
-Rennes,
-Rostov,
-Salzburg,
-Sevilla,
-Shakhtar Donetsk,
-Sheriff,
-Slavia Praha,
-Spartak Moscow,
-Sporting CP,
-Tottenham,
-Union Berlin,
-Valencia,
-Villarreal,
-Wolfsburg,
-Young Boys,
+Equipo,Goles a Favor,Goles en Contra
+AC Milan,15.0,24.0
+Newcastle,24.0,28.0
+Young Boys,39.0,76.0
+Leipzig,,
+Feyenoord,41.0,54.0
+Celtic,29.0,93.0
+Lazio,,
+Atletico de Madrid,,
+Paris,,
+Borussia Dortmund,,
+Manchester City,,
+Crvena zvezda,36.0,97.0
+FC Barcelona,,
+Antwerp,24.0,68.0
+Shakhtar Donetsk,82.0,122.0
+FC Porto,,
+Galatasaray,46.0,74.0
+Copenhagen,,
+Real Madrid,,
+Union Berlin,24.0,40.0
+Bayern Munich,,
+Manchester United,49.0,50.0
+Sevilla,67.0,93.0
+Lens,24.0,44.0
+Arsenal,,
+PSV,,
+Braga,24.0,48.0
+Napoli,,
+Real Sociedad,,
+Internazionale,,
+Benfica,85.0,110.0
+Salzburg,57.0,85.0
+CSKA Moscow,8.0,10.0
+Basel,13.0,10.0
+Anderlecht,2.0,17.0
+Paris Saint-Germain,27.0,9.0
+Chelsea,85.0,51.0
+Qarabag,2.0,14.0
+Roma,35.0,31.0
+Atlético Madrid,5.0,4.0
+Barcelona,102.0,67.0
+Juventus,80.0,58.0
+Olympiacos,14.0,37.0
+Sporting CP,30.0,35.0
+Maribor,3.0,16.0
+Spartak Moscow,9.0,13.0
+Liverpool,144.0,72.0
+RB Leipzig,10.0,11.0
+Monaco,8.0,30.0
+Porto,66.0,58.0
+Besiktas,15.0,32.0
+APOEL,2.0,17.0
+Tottenham Hotspur,18.0,8.0
+Tottenham,46.0,44.0
+Atlético,45.0,48.0
+Club Brugge,32.0,58.0
+Dortmund,67.0,52.0
+Schalke,8.0,14.0
+Lokomotiv Moskva,13.0,33.0
+Ajax,74.0,50.0
+AEK,2.0,13.0
+Hoffenheim,11.0,14.0
+Bayern,,
+Man. City,105.0,42.0
+Lyon,27.0,30.0
+Plzen,12.0,40.0
+CSKA Moskva,8.0,9.0
+Valencia,19.0,21.0
+Man. United,37.0,31.0
+Slavia Praha,4.0,10.0
+Zenit,21.0,32.0
+Genk,5.0,20.0
+LOSC,12.0,22.0
+Dinamo Zagreb,14.0,24.0
+Atalanta,40.0,43.0
+Leverkusen,9.0,17.0
+Dynamo Kyiv,5.0,24.0
+Rennes,3.0,11.0
+Krasnodar,6.0,11.0
+Ferencváros,5.0,17.0
+Istanbul Basaksehir,7.0,18.0
+Mönchengladbach,16.0,13.0
+Marseille,10.0,21.0
+Midtjylland,4.0,13.0
+Villarreal,20.0,16.0
+Wolfsburg,5.0,10.0
+Malmö,1.0,14.0
+Sheriff,7.0,11.0
+Milan,26.0,28.0
+Inter,36.0,23.0
+Man City,,
+M. Haifa,7.0,21.0
+Rangers,2.0,22.0
+Frankfurt,7.0,13.0
+Atlético de Madrid,17.0,6.0
+Man United,12.0,15.0

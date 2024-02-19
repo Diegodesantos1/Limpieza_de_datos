@@ -95,19 +95,19 @@ Match Number,Round Number,Date,Location,Home Team,Away Team,Group,Result
 94,6,13/12/2023 20:00,St James' Park,Newcastle,Milan,Group F,1 - 2
 95,6,13/12/2023 20:00,Estádio do Dragão,FC Porto,Shakhtar Donetsk,Group H,5 - 3
 96,6,13/12/2023 20:00,Bosuil,Antwerp,Barcelona,Group H,3 - 2
-97,R16 Game 1,13/02/2024 20:00,RB Arena,Leipzig,Real Madrid,,
-98,R16 Game 1,13/02/2024 20:00,Parken,Copenhagen,Man City,,
-99,R16 Game 1,14/02/2024 20:00,Stadio Olimpico,Lazio,Bayern,,
-100,R16 Game 1,14/02/2024 20:00,Parc des Princes,Paris,Real Sociedad,,
-101,R16 Game 1,20/02/2024 20:00,Stadio San Siro,Inter,Atlético de Madrid,,
-102,R16 Game 1,20/02/2024 20:00,PSV Stadion,PSV,Dortmund,,
-103,R16 Game 1,21/02/2024 20:00,Estádio do Dragão,FC Porto,Arsenal,,
-104,R16 Game 1,21/02/2024 20:00,Stadio Diego Armando Maradona,Napoli,Barcelona,,
-105,R16 Game 2,05/03/2024 20:00,Fußball Arena München,Bayern,Lazio,,
-106,R16 Game 2,05/03/2024 20:00,Reale Arena,Real Sociedad,Paris,,
-107,R16 Game 2,06/03/2024 20:00,Estadio Santiago Bernabéu,Real Madrid,Leipzig,,
-108,R16 Game 2,06/03/2024 20:00,City of Manchester Stadium,Man City,Copenhagen,,
-109,R16 Game 2,12/03/2024 20:00,Arsenal Stadium,Arsenal,FC Porto,,
-110,R16 Game 2,12/03/2024 20:00,Estadi Olímpic Lluís Companys,Barcelona,Napoli,,
-111,R16 Game 2,13/03/2024 20:00,Estadio Metropolitano,Atlético de Madrid,Inter,,
-112,R16 Game 2,13/03/2024 20:00,BVB Stadion Dortmund,Dortmund,PSV,,
+97,R16 Game 1,13/02/2024 20:00,RB Arena,Leipzig,Real Madrid,0 - 1,
+98,R16 Game 1,13/02/2024 20:00,Parken,Copenhagen,Man City,1 - 3,
+99,R16 Game 1,14/02/2024 20:00,Stadio Olimpico,Lazio,Bayern,1 - 0,
+100,R16 Game 1,14/02/2024 20:00,Parc des Princes,Paris,Real Sociedad,2 - 0,
+101,R16 Game 1,20/02/2024 20:00,Stadio San Siro,Inter,Atlético de Madrid,,0 - 0
+102,R16 Game 1,20/02/2024 20:00,PSV Stadion,PSV,Dortmund,,0 - 0
+103,R16 Game 1,21/02/2024 20:00,Estádio do Dragão,FC Porto,Arsenal,,0 - 0
+104,R16 Game 1,21/02/2024 20:00,Stadio Diego Armando Maradona,Napoli,Barcelona,,0 - 0
+105,R16 Game 2,05/03/2024 20:00,Fußball Arena München,Bayern,Lazio,,0 - 0
+106,R16 Game 2,05/03/2024 20:00,Reale Arena,Real Sociedad,Paris,,0 - 0
+107,R16 Game 2,06/03/2024 20:00,Estadio Santiago Bernabéu,Real Madrid,Leipzig,,0 - 0
+108,R16 Game 2,06/03/2024 20:00,City of Manchester Stadium,Man City,Copenhagen,,0 - 0
+109,R16 Game 2,12/03/2024 20:00,Arsenal Stadium,Arsenal,FC Porto,,0 - 0
+110,R16 Game 2,12/03/2024 20:00,Estadi Olímpic Lluís Companys,Barcelona,Napoli,,0 - 0
+111,R16 Game 2,13/03/2024 20:00,Estadio Metropolitano,Atlético de Madrid,Inter,,0 - 0
+112,R16 Game 2,13/03/2024 20:00,BVB Stadion Dortmund,Dortmund,PSV,,0 - 0
