@@ -49,3 +49,5 @@ def scrapeo():
 
     # Guardar el DataFrame en un archivo CSV
     df.to_csv('Datos_Limpios/UEFA_Ranking.csv', index=False)
+
+# scrapeo()
