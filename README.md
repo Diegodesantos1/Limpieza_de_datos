@@ -568,7 +568,6 @@ ax.set_ylabel('Puntuación ponderada')
 
 plt.show()
 ```
-![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/97e90b96-83db-4107-afdc-3265ac30d13f)
-
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/0445da1d-6e61-4d12-83b6-af52e789acf6)
 
 
