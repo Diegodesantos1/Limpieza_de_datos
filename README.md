@@ -570,4 +570,110 @@ plt.show()
 ```
 ![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/0445da1d-6e61-4d12-83b6-af52e789acf6)
 
+Ahora pasamos a la Clusterización:
 
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/b0454ce7-2caf-4265-be21-e6436d8e2848)
+
+
+Viendo los clústers, la mejor opción es elegir 6:
+
+```python
+# Cargar los datos
+data = pd.read_csv('Datos_Limpios/Puntaje_completo_equipos.csv')
+
+# Seleccionar las características para la clasificación
+X = data[['Puntuacion Ponderada', 'Goles']]
+
+# Normalizar los datos
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+# Crear una nueva figura y eje para el gráfico
+fig, ax = plt.subplots(figsize=(12, 8))
+
+# Entrenar el modelo de K-Means
+kmeans = KMeans(n_clusters=6)
+kmeans.fit(X_scaled)
+
+# Obtener las etiquetas de los clústeres y los centroides
+labels = kmeans.labels_
+centroids = kmeans.cluster_centers_
+
+# Scatter plot de los puntos de datos
+scatter = ax.scatter(X_scaled[:, 0], X_scaled[:, 1], c=labels, cmap='viridis', s=50, alpha=0.5, label='Data Points')
+
+# Scatter plot de los centroides
+ax.scatter(centroids[:, 0], centroids[:, 1], c='red', marker='x', s=200, label='Centroids')
+
+# Añadir el nombre de los equipos a cada punto
+for i, txt in enumerate(data['Equipo']):
+    ax.annotate(txt, (X_scaled[i, 0], X_scaled[i, 1]), textcoords="offset points", xytext=(0,10), ha='center')
+
+# Añadir el título y etiquetas de los ejes
+ax.set_title(f'Centroides = {5}')
+ax.set_xlabel('Puntuación Ponderada')
+ax.set_ylabel('Goles')
+
+# Añadir la leyenda
+ax.legend()
+
+# Mostrar el gráfico
+plt.show()
+```
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/b923aeef-aeb3-434f-a0c5-68ef9c50b7d3)
+
+Ahora aplico el Clustering con K-means y PCA:
+
+```python
+# Cargar los datos
+data = pd.read_csv('Datos_Limpios/Puntaje_completo_equipos.csv')
+
+# Seleccionar características para clustering
+X = data[['Puntuacion Ponderada', 'Goles']]
+
+# Normalizar los datos
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+# Clustering con algoritmos de centroides (K-Means)
+kmeans = KMeans(n_clusters=5)
+kmeans.fit(X_scaled)
+
+# Reducción de dimensionalidad con PCA
+pca = PCA(n_components=2)
+X_pca = pca.fit_transform(X_scaled)
+
+# Visualización de los resultados con nombres de equipos
+plt.figure(figsize=(10, 8))
+
+# Scatter plot de los puntos de datos
+scatter = plt.scatter(X_pca[:, 0], X_pca[:, 1], c=kmeans.labels_, cmap='viridis')
+
+# Añadir etiquetas para cada punto (nombre del equipo)
+for i, txt in enumerate(data['Equipo']):
+    plt.annotate(txt, (X_pca[i, 0], X_pca[i, 1]), textcoords="offset points", xytext=(0, 10), ha='center')
+
+# Añadir leyenda
+plt.legend(*scatter.legend_elements(), title="Clústeres")
+
+plt.title('Clustering con K-Means y PCA')
+plt.xlabel('PC1')
+plt.ylabel('PC2')
+plt.show()
+```
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/7395160b-2fee-47ca-b289-8c8eb3779ec2)
+
+Luego he calculado las métricas pertinentes:
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/38ea6c84-e541-49f4-85f6-05d4708f1a06)
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/ff84a283-1861-4304-94a2-7917dd945417)
+
+Y para terminar la matriz de correlación:
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/be822f40-d416-4c23-8342-6be57013e194)
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/04390e6e-22c2-4202-9183-4de0dc774801)
