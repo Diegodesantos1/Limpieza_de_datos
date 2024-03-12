@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-
+import os
 
 datos = ["Datos/champions-league-2017-UTC.csv", "Datos/champions-league-2018-UTC.csv", "Datos/champions-league-2019-UTC.csv",
          "Datos/champions-league-2020-UTC.csv", "Datos/champions-league-2021-UTC.csv", "Datos/champions-league-2022-UTC.csv"]
@@ -424,3 +424,28 @@ df_equipos_goles.to_csv('Datos_Limpios/Goles.csv', index=False)
 # Guardar el dataframe en un archivo CSV
 df_trabajar.to_csv("Datos_Limpios/UCL" +
                    nombres_goles[i] + ".csv", index=False)
+
+#Carpeta donde se encuentran los archivos que tengan el formato UCL{numero}-{numero}.csv
+carpeta = 'Datos_Limpios/'
+
+#Lista de archivos en la carpeta
+
+archivos = os.listdir(carpeta)
+
+#Lista de archivos que tengan el formato UCL{numero}-{numero}.csv
+
+archivos = [archivo for archivo in archivos if archivo.startswith('UCL') and archivo.endswith('.csv')]
+
+#Lista de DataFrames
+
+dfs = [pd.read_csv(carpeta + archivo) for archivo in archivos]
+
+#Concatenar todos los DataFrames
+
+df = pd.concat(dfs, ignore_index=True)
+
+#Guardar el DataFrame en un archivo csv
+
+df.to_csv('Datos_Limpios/Champions_Completa.csv', index=False)
+
+

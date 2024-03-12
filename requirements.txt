@@ -1,16 +1,6 @@
-flask
-python-dotenv
-flask-restful
-flask-sqlalchemy
-flask-marshmallow
-Faker
-sqlalchemy-filters
-colorama
-flask-mail
 scikit-learn
 seaborn
 lxml
 statsmodels
 tensorflow
 keras
-distutils
