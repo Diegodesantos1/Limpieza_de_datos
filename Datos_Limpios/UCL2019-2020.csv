@@ -95,26 +95,32 @@ Round Number,Home Team,Away Team,Home Goals,Away Goals
 6,Olympiacos,Crvena zvezda,1 , 0
 6,Bayer Leverkusen,Juventus,0 , 2
 6,Atletico de Madrid,Lokomotiv Moskva,2 , 0
-R16 Game 1,Atletico de Madrid,Liverpool,1 , 0
-R16 Game 1,Borussia Dortmund,Paris Saint-Germain,2 , 1
-R16 Game 1,Atalanta,Valencia,4 , 1
-R16 Game 1,Tottenham,Leipzig,0 , 1
-R16 Game 1,Chelsea,Bayern Munich,0 , 3
-R16 Game 1,Napoli,FC Barcelona,1 , 1
-R16 Game 1,Lyon,Juventus,1 , 0
-R16 Game 1,Real Madrid,Manchester City,1 , 2
-R16 Game 2,Valencia,Atalanta,3 , 4
-R16 Game 2,Leipzig,Tottenham,3 , 0
-R16 Game 2,Liverpool,Atletico de Madrid,2 , 3
-R16 Game 2,Paris Saint-Germain,Borussia Dortmund,2 , 0
-R16 Game 2,Juventus,Lyon,2 , 1
-R16 Game 2,Manchester City,Real Madrid,2 , 1
-R16 Game 2,Bayern Munich,Chelsea,4 , 1
-R16 Game 2,FC Barcelona,Napoli,3 , 1
-Quarter Finals,Atalanta,Paris Saint-Germain,1 , 2
-Quarter Finals,Leipzig,Atletico de Madrid,2 , 1
-Quarter Finals,FC Barcelona,Bayern Munich,2 , 8
-Quarter Finals,Manchester City,Lyon,1 , 3
-Semi Finals,Leipzig,Paris Saint-Germain,0 , 3
-Semi Finals,Lyon,Bayern Munich,0 , 3
-Final,Paris Saint-Germain,Bayern Munich,0 , 1
+R16 Game 1,Atletico de Madrid,Liverpool,1,0
+R16 Game 1,Borussia Dortmund,Paris Saint-Germain,2,1
+R16 Game 1,Atalanta,Valencia,4,1
+R16 Game 1,Tottenham,Leipzig,0,1
+R16 Game 1,Chelsea,Bayern Munich,0,3
+R16 Game 1,Napoli,FC Barcelona,1,1
+R16 Game 1,Lyon,Juventus,1,0
+R16 Game 1,Real Madrid,Manchester City,1,2
+R16 Game 2,Valencia,Atalanta,3,4
+R16 Game 2,Leipzig,Tottenham,3,0
+R16 Game 2,Liverpool,Atletico de Madrid,2,3
+R16 Game 2,Paris Saint-Germain,Borussia Dortmund,2,0
+R16 Game 2,Juventus,Lyon,2,1
+R16 Game 2,Manchester City,Real Madrid,2,1
+R16 Game 2,Bayern Munich,Chelsea,4,1
+R16 Game 2,FC Barcelona,Napoli,3,1
+Quarter Finals,Atalanta,Paris Saint-Germain,1,2
+Quarter Finals,Paris Saint-Germain,Atalanta,2,1
+Quarter Finals,Leipzig,Atletico de Madrid,2,1
+Quarter Finals,Atletico de Madrid,Leipzig,2,1
+Quarter Finals,FC Barcelona,Bayern Munich,2,8
+Quarter Finals,Bayern Munich,FC Barcelona,8,2
+Quarter Finals,Manchester City,Lyon,1,3
+Quarter Finals,Lyon,Manchester City,3,1
+Semi Finals,Leipzig,Paris Saint-Germain,0,3
+Semi Finals,Paris Saint-Germain,Leipzig,3,0
+Semi Finals,Lyon,Bayern Munich,0,3
+Semi Finals,Bayern Munich,Lyon,3,0
+Final,Paris Saint-Germain,Bayern Munich,0,1

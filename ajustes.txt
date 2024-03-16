@@ -1,0 +1,4 @@
+({'capa_activacion': 'linear', 'optimizador': 'Adafactor', 'num_capas': 5, 'num_neuronas': 128, 'learning_rate': 0.0001}, 0.11999999731779099, 1.1143789291381836)
+({'capa_activacion': 'softmax', 'optimizador': 'Adamax', 'num_capas': 3, 'num_neuronas': 128, 'learning_rate': 0.0001}, 0.11999999731779099, 0.6929662823677063)
+({'capa_activacion': 'tanh', 'optimizador': 'Lion', 'num_capas': 4, 'num_neuronas': 8, 'learning_rate': 0.01}, 0.07999999821186066, 3.7568132877349854)
+({'capa_activacion': 'softmax', 'optimizador': 'Adam', 'num_capas': 5, 'num_neuronas': 128, 'learning_rate': 1e-05}, 0.11999999731779099, 0.6923390030860901)
