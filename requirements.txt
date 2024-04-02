@@ -1,8 +1,8 @@
+bs4
 scikit-learn
 seaborn
 lxml
 statsmodels
 tensorflow
 keras
-PIL
 ipython

@@ -1,126 +1,126 @@
-Round Number,Home Team,Away Team,Home Goals,Away Goals
-1,Dinamo Zagreb,Chelsea,1 , 0
-1,Borussia Dortmund,Copenhagen,3 , 0
-1,Salzburg,AC Milan,1 , 1
-1,Celtic,Real Madrid,0 , 3
-1,Leipzig,Shakhtar Donetsk,1 , 4
-1,Sevilla,Manchester City,0 , 4
-1,Paris Saint-Germain,Juventus,2 , 1
-1,Benfica,M. Haifa,2 , 0
-1,Ajax,Rangers,4 , 0
-1,Frankfurt,Sporting CP,0 , 3
-1,Napoli,Liverpool,4 , 1
-1,Atletico de Madrid,FC Porto,2 , 1
-1,Club Brugge,Bayer Leverkusen,1 , 0
-1,FC Barcelona,Plzen,5 , 1
-1,Internazionale,Bayern Munich,0 , 2
-1,Tottenham,Marseille,2 , 0
-2,Plzen,Internazionale,0 , 2
-2,Sporting CP,Tottenham,2 , 0
-2,Liverpool,Ajax,2 , 1
-2,FC Porto,Club Brugge,0 , 4
-2,Bayer Leverkusen,Atletico de Madrid,2 , 0
-2,Bayern Munich,FC Barcelona,2 , 0
-2,Marseille,Frankfurt,0 , 1
-2,AC Milan,Dinamo Zagreb,3 , 1
-2,Shakhtar Donetsk,Celtic,1 , 1
-2,Rangers,Napoli,0 , 3
-2,Chelsea,Salzburg,1 , 1
-2,Real Madrid,Leipzig,2 , 0
-2,Manchester City,Borussia Dortmund,2 , 1
-2,Copenhagen,Sevilla,0 , 0
-2,Juventus,Benfica,1 , 2
-2,M. Haifa,Paris Saint-Germain,1 , 3
-3,Bayern Munich,Plzen,5 , 0
-3,Marseille,Sporting CP,4 , 1
-3,Liverpool,Rangers,2 , 0
-3,Ajax,Napoli,1 , 6
-3,FC Porto,Bayer Leverkusen,2 , 0
-3,Club Brugge,Atletico de Madrid,2 , 0
-3,Internazionale,FC Barcelona,1 , 0
-3,Frankfurt,Tottenham,0 , 0
-3,Salzburg,Dinamo Zagreb,1 , 0
-3,Leipzig,Celtic,3 , 1
-3,Chelsea,AC Milan,3 , 0
-3,Real Madrid,Shakhtar Donetsk,2 , 1
-3,Manchester City,Copenhagen,5 , 0
-3,Sevilla,Borussia Dortmund,1 , 4
-3,Juventus,M. Haifa,3 , 1
-3,Benfica,Paris Saint-Germain,1 , 1
-4,Copenhagen,Manchester City,0 , 0
-4,M. Haifa,Juventus,2 , 0
-4,Dinamo Zagreb,Salzburg,1 , 1
-4,AC Milan,Chelsea,0 , 2
-4,Shakhtar Donetsk,Real Madrid,1 , 1
-4,Celtic,Leipzig,0 , 2
-4,Borussia Dortmund,Sevilla,1 , 1
-4,Paris Saint-Germain,Benfica,1 , 1
-4,Napoli,Ajax,4 , 2
-4,Atletico de Madrid,Club Brugge,0 , 0
-4,Rangers,Liverpool,1 , 7
-4,Bayer Leverkusen,FC Porto,0 , 3
-4,FC Barcelona,Internazionale,3 , 3
-4,Plzen,Bayern Munich,2 , 4
-4,Tottenham,Frankfurt,3 , 2
-4,Sporting CP,Marseille,0 , 2
-5,Salzburg,Chelsea,1 , 2
-5,Sevilla,Copenhagen,3 , 0
-5,Dinamo Zagreb,AC Milan,0 , 4
-5,Celtic,Shakhtar Donetsk,1 , 1
-5,Leipzig,Real Madrid,3 , 2
-5,Borussia Dortmund,Manchester City,0 , 0
-5,Paris Saint-Germain,M. Haifa,7 , 2
-5,Benfica,Juventus,4 , 3
-5,Club Brugge,FC Porto,0 , 4
-5,Internazionale,Plzen,4 , 0
-5,Napoli,Rangers,3 , 0
-5,Ajax,Liverpool,0 , 3
-5,Atletico de Madrid,Bayer Leverkusen,2 , 2
-5,FC Barcelona,Bayern Munich,0 , 3
-5,Tottenham,Sporting CP,1 , 1
-5,Frankfurt,Marseille,2 , 1
-6,FC Porto,Atletico de Madrid,2 , 1
-6,Bayer Leverkusen,Club Brugge,0 , 0
-6,Liverpool,Napoli,2 , 0
-6,Rangers,Ajax,1 , 3
-6,Bayern Munich,Internazionale,2 , 0
-6,Plzen,FC Barcelona,2 , 4
-6,Sporting CP,Frankfurt,1 , 2
-6,Marseille,Tottenham,1 , 2
-6,Real Madrid,Celtic,5 , 1
-6,Shakhtar Donetsk,Leipzig,0 , 4
-6,Chelsea,Dinamo Zagreb,2 , 1
-6,AC Milan,Salzburg,4 , 0
-6,Manchester City,Sevilla,3 , 1
-6,Copenhagen,Borussia Dortmund,1 , 1
-6,Juventus,Paris Saint-Germain,1 , 2
-6,M. Haifa,Benfica,1 , 6
-R16 Game 1,AC Milan,Tottenham,1 , 0
-R16 Game 1,Paris Saint-Germain,Bayern Munich,0 , 1
-R16 Game 1,Club Brugge,Benfica,0 , 2
-R16 Game 1,Borussia Dortmund,Chelsea,1 , 0
-R16 Game 1,Liverpool,Real Madrid,2 , 5
-R16 Game 1,Frankfurt,Napoli,0 , 2
-R16 Game 1,Leipzig,Manchester City,1 , 1
-R16 Game 1,Internazionale,FC Porto,1 , 0
-R16 Game 2,Benfica,Club Brugge,5 , 1
-R16 Game 2,Chelsea,Borussia Dortmund,2 , 0
-R16 Game 2,Bayern Munich,Paris Saint-Germain,2 , 0
-R16 Game 2,Tottenham,AC Milan,0 , 0
-R16 Game 2,Manchester City,Leipzig,7 , 0
-R16 Game 2,FC Porto,Internazionale,0 , 0
-R16 Game 2,Real Madrid,Liverpool,1 , 0
-R16 Game 2,Napoli,Frankfurt,3 , 0
-QF Game 1,Benfica,Internazionale,0 , 2
-QF Game 1,Manchester City,Bayern Munich,3 , 0
-QF Game 1,Real Madrid,Chelsea,2 , 0
-QF Game 1,AC Milan,Napoli,1 , 0
-QF Game 2,Napoli,AC Milan,1 , 1
-QF Game 2,Chelsea,Real Madrid,0 , 2
-QF Game 2,Bayern Munich,Manchester City,1 , 1
-QF Game 2,Internazionale,Benfica,3 , 3
-SF Game 1,Real Madrid,Manchester City,1 , 1
-SF Game 1,AC Milan,Internazionale,0 , 2
-SF Game 2,Internazionale,AC Milan,1 , 0
-SF Game 2,Manchester City,Real Madrid,4 , 0
-Final,Manchester City,Internazionale,1 , 0
+Round Number,Home Team,Away Team,Home Goals,Away Goals,Home Shots,Away Shots,Home Shots Keeper,Away Shots Keeper,Home Possesion,Away Possesion,Home Passes,Away Passes,Home Passes Completed,Away Passes Completed,Home Tackles,Away Tackles,Home Yellow Cards,Away Yellow Cards,Home Red Cards,Away Red Cards,Home Offside,Away Offside,Home Corners,Away Corners
+1,Dinamo Zagreb,Chelsea,1,0,6,15,3,3,31,69,314,656,75,86,15,15,1,2,0,0,0,7,1,4
+1,Borussia Dortmund,Copenhagen,3 , 0,15, 7, 4, 2, 63, 37, 673, 396, 0, 0, 9, 8, 0, 2, 0, 0, 1, 1, 4, 5
+1,Salzburg,AC Milan,1 , 1,16,14,4,3,34,66,258,489,69,81,10,19,2,4,0,0,0,3,3,5
+1,Celtic,Real Madrid,0 , 3,10,12,4,6,35,65,451,845,86,93,9,4,1,1,0,0,1,2,5,3
+1,Leipzig,Shakhtar Donetsk,1 , 4,13,5,2,4,68,32,628,305,87,80,11,12,1,4,0,0,2,0,9,1
+1,Sevilla,Manchester City,0 , 4,6,24,1,10,38,62,372,606,79,90,9,8,1,0,0,0,2,2,1,7
+1,Paris Saint-Germain,Juventus,2 , 1,15,13,6,4,58,42,649,477,92,90,11,18,2,3,0,0,1,4,1,1
+1,Benfica,M. Haifa,2 , 0,14,7,5,2,57,43,520,404,84,78,13,12,1,2,0,0,1,2,2,4
+1,Ajax,Rangers,4 , 0,17,4,9,1,76,24,808,259,92,77,8,4,0,1,0,0,4,4,7,2
+1,Frankfurt,Sporting CP,0 , 3,11,8,2,5,43,57,431,553,80,82,11,7,2,1,0,0,5,0,1,1
+1,Napoli,Liverpool,4 , 1,18,15,9,7,38,62,383,584,81,88,7,13,1,2,0,0,6,0,3,12
+1,Atletico de Madrid,FC Porto,2 , 1,10,17,3,3,54,46,504,439,82,79,12,13,2,2,0,1,2,0,2,6
+1,Club Brugge,Bayer Leverkusen,1 , 0,9,14,3,3,47,53,483,523,81,82,4,11,1,3,0,0,2,7,6,4
+1,FC Barcelona,Plzen,5 , 1,20,8,11,1,77,23,738,223,91,71,5,8,0,4,0,0,1,3,10,1
+1,Internazionale,Bayern Munich,0 , 2,9,21,2,11,44,56,478,622,83,87,9,11,1,1,0,0,4,1,5,3
+1,Tottenham,Marseille,2 , 0,18,9,2,1,49,51,497,509,85,86,16,9,2,2,0,1,0,1,5,3
+2,Plzen,Internazionale,0 , 2,8,19,1,8,28,72,266,687,78,92,10,9,3,2,1,0,0,2,3,6
+2,Sporting CP,Tottenham,2 , 0,12,12,6,5,55,45,565,455,86,84,11,10,2,3,0,0,1,5,5,5
+2,Liverpool,Ajax,2 , 1,24,3,10,1,57,43,481,380,81,78,12,19,1,2,0,0,2,4,10,0
+2,FC Porto,Club Brugge,0 , 4,15,13,4,7,55,45,462,401,80,75,8,16,2,4,0,0,4,2,7,0
+2,Bayer Leverkusen,Atletico de Madrid,2 , 0,18,12,5,3,45,55,459,557,83,86,16,13,3,0,0,0,0,2,7,4
+2,Bayern Munich,FC Barcelona,2 , 0,13,18,4,4,46,54,478,537,82,85,12,8,2,1,0,0,3,3,4,4
+2,Marseille,Frankfurt,0 , 1,8,14,4,7,61,39,567,365,83,72,12,16,1,1,0,0,5,2,0,2
+2,AC Milan,Dinamo Zagreb,3 , 1,17,7,7,3,57,43,522,399,88,82,10,9,0,2,0,0,4,1,3,1
+2,Shakhtar Donetsk,Celtic,1 , 1,5,16,2,6,43,57,480,610,82,88,8,7,0,1,0,0,1,1,2,5
+2,Rangers,Napoli,0 , 3,10,25,3,10,43,57,357,478,73,80,13,12,4,1,1,0,1,0,5,5
+2,Chelsea,Salzburg,1 , 1,17,4,4,3,73,27,648,255,83,58,6,16,1,4,0,0,4,4,3,2
+2,Real Madrid,Leipzig,2 , 0,12,9,3,3,53,47,532,477,87,85,10,11,1,3,0,0,1,1,3,5
+2,Manchester City,Borussia Dortmund,2 , 1,12,5,3,2,66,34,709,365,89,79,9,7,2,3,0,0,0,1,6,2
+2,Copenhagen,Sevilla,0 , 0,7,11,2,2,37,63,364,604,74,83,17,8,3,2,0,0,11,0,3,5
+2,Juventus,Benfica,1 , 2,11,19,3,7,43,57,408,536,77,83,9,15,4,3,0,0,4,0,4,11
+2,M. Haifa,Paris Saint-Germain,1 , 3,13,16,5,6,43,57,411,529,87,87,17,6,3,1,0,0,6,3,4,11
+3,Bayern Munich,Plzen,5 , 0,21,10,13,3,71,29,658,272,87,70,12,9,0,1,0,0,5,1,3,1
+3,Marseille,Sporting CP,4 , 1,20,6,7,2,56,44,448,365,88,75,10,12,1,3,0,1,11,1,6,2
+3,Liverpool,Rangers,2 , 0,23,6,10,2,64,36,574,331,84,73,7,6,1,1,0,0,3,3,13,1
+3,Ajax,Napoli,1 , 6,8,26,2,13,43,57,375,492,72,82,21,4,2,1,1,0,3,1,4,4
+3,FC Porto,Bayer Leverkusen,2 , 0,12,8,4,6,41,59,342,498,73,84,12,13,3,2,0,1,1,2,4,2
+3,Club Brugge,Atletico de Madrid,2 , 0,7,20,3,5,47,53,485,539,85,86,10,8,5,2,0,0,1,3,2,5
+3,Internazionale,FC Barcelona,1 , 0,5,7,2,2,28,72,286,706,78,90,9,9,5,2,0,0,7,0,3,13
+3,Frankfurt,Tottenham,0 , 0,12,11,2,2,43,57,470,611,77,83,8,9,0,3,0,0,1,0,6,4
+3,Salzburg,Dinamo Zagreb,1 , 0,18,10,6,3,47,53,438,492,79,78,11,9,0,4,0,0,0,1,5,3
+3,Leipzig,Celtic,3 , 1,16,12,6,5,59,41,627,443,86,84,6,9,1,1,0,0,7,0,3,5
+3,Chelsea,AC Milan,3 , 0,10,4,6,1,52,48,510,492,83,79,15,14,2,3,0,0,3,1,4,3
+3,Real Madrid,Shakhtar Donetsk,2 , 1,36,11,14,3,60,40,684,484,91,85,7,14,0,2,0,0,1,2,10,1
+3,Manchester City,Copenhagen,5 , 0,73,27,648,255,83,58,6,16,1,4,0,0,4,4,3,2
+3,Sevilla,Borussia Dortmund,1 , 4,20,19,6,7,59,41,544,391,84,79,14,12,4,1,0,0,2,1,5,4
+3,Juventus,M. Haifa,3 , 1,16,20,7,4,51,49,493,475,84,84,6,10,1,1,0,0,4,2,6,5
+3,Benfica,Paris Saint-Germain,1 , 1,8,15,6,7,35,65,379,701,82,87,14,9,2,3,0,0,0,4,5,6
+4,Copenhagen,Manchester City,0 , 0,7,21,2,8,37,63,364,604,74,83,17,8,3,2,0,0,11,0,3,5
+4,M. Haifa,Juventus,2 , 0,14,10,4,5,42,58,364,482,75,84,16,12,1,2,0,0,1,1,6,9
+4,Dinamo Zagreb,Salzburg,1 , 1,14,15,3,3,57,43,478,379,77,70,6,13,1,2,0,0,0,3,7,3
+4,AC Milan,Chelsea,0 , 2,7,15,1,4,29,71,295,701,75,93,12,18,6,3,1,0,0,2,2,5
+4,Shakhtar Donetsk,Real Madrid,1 , 1,11,17,2,5,41,59,464,637,85,90,6,8,2,2,0,0,2,2,6,11
+4,Celtic,Leipzig,0 , 2,16,13,2,5,41,59,424,617,82,87,11,4,2,0,0,0,1,0,5,5
+4,Borussia Dortmund,Sevilla,1 , 1,7,9,3,2,52,48,533,496,84,82,11,7,1,3,0,0,0,3,3,2
+4,Paris Saint-Germain,Benfica,1 , 1,7,7,3,1,62,38,622,381,90,83,5,18,2,5,0,0,3,3,6,2
+4,Napoli,Ajax,4 , 2,13,13,5,3,45,55,437,539,87,87,11,11,3,6,0,0,3,4,2,6
+4,Atletico de Madrid,Club Brugge,0 , 0,21,5,9,1,66,34,630,351,87,76,8,7,2,3,0,1,5,1,12,1
+4,Rangers,Liverpool,1 , 7,7,20,2,9,43,57,413,546,69,79,7,6,0,1,0,0,2,3,3,3
+4,Bayer Leverkusen,FC Porto,0 , 3,17,5,4,3,65,35,618,346,87,76,16,9,3,2,0,0,1,1,8,1
+4,FC Barcelona,Internazionale,3 , 3,25,11,11,8,62,38,505,315,84,68,12,15,2,3,0,0,2,3,10,8
+4,Plzen,Bayern Munich,2 , 4,15,15,6,8,31,69,298,682,75,88,9,11,1,2,0,0,0,2,3,1
+4,Tottenham,Frankfurt,3 , 2,11,11,8,6,52,48,494,462,84,81,13,15,3,2,0,1,3,0,4,4
+4,Sporting CP,Marseille,0 , 2,4,16,2,5,31,69,284,640,76,90,14,15,2,2,2,0,0,2,3,7
+5,Salzburg,Chelsea,1 , 2,16,15,7,11,29,71,230,601,50,83,18,11,1,2,0,0,1,0,9,2
+5,Sevilla,Copenhagen,3 , 0,15,10,11,2,58,42,518,374,88,80,12,18,2,2,0,1,1,1,3,5
+5,Dinamo Zagreb,AC Milan,0 , 4,11,22,6,10,56,44,519,402,85,83,6,15,2,1,0,0,0,3,0,8
+5,Celtic,Shakhtar Donetsk,1 , 1,15,8,5,3,55,45,615,536,89,87,6,10,0,4,0,0,1,1,8,3
+5,Leipzig,Real Madrid,3 , 2,14,12,3,5,57,43,533,489,86,85,9,11,1,2,0,0,2,3,5,4
+5,Borussia Dortmund,Manchester City,0 , 0,11,8,4,3,27,73,341,902,80,92,4,10,1,4,0,0,3,3,0,3
+5,Paris Saint-Germain,M. Haifa,7 , 2,21,13,9,5,63,37,637,379,92,85,6,12,2,4,0,0,1,3,3,8
+5,Benfica,Juventus,4 , 3,15,13,6,6,55,45,492,402,84,82,5,9,1,1,0,0,0,1,8,7
+5,Club Brugge,FC Porto,0 , 4,10,18,4,9,57,43,435,338,77,73,13,13,3,4,0,0,1,5,8,3
+5,Internazionale,Plzen,4 , 0,22,5,9,1,64,36,578,328,90,81,9,8,0,2,0,0,3,0,8,7
+5,Napoli,Rangers,3 , 0,14,9,6,1,65,35,792,418,91,82,12,11,2,2,0,0,2,2,2,4
+5,Ajax,Liverpool,0 , 3,11,13,2,5,49,51,533,543,81,87,6,11,0,0,0,0,0,1,3,4
+5,Atletico de Madrid,Bayer Leverkusen,2 , 2,23,13,10,7,64,36,652,395,88,78,8,11,2,3,0,0,3,0,11,3
+5,FC Barcelona,Bayern Munich,0 , 3,9,14,0,8,52,48,502,470,84,87,14,13,1,3,0,0,2,5,2,4
+5,Tottenham,Sporting CP,1 , 1,18,10,7,4,59,41,550,406,84,79,12,10,1,2,0,0,5,1,10,6
+5,Frankfurt,Marseille,2 , 1,9,11,4,3,43,57,415,536,75,81,15,11,3,3,0,0,5,4,0,5
+6,FC Porto,Atletico de Madrid,2 , 1,16,11,8,5,51,49,474,461,79,82,10,7,2,3,0,0,0,5,8,5
+6,Bayer Leverkusen,Club Brugge,0 , 0,13,8,4,1,54,46,536,469,84,79,13,6,2,3,0,0,3,2,7,3
+6,Liverpool,Napoli,2 , 0,14,10,6,2,53,47,494,454,81,80,18,10,3,0,0,0,3,3,4,3
+6,Rangers,Ajax,1 , 3,8,13,3,7,45,55,440,537,83,86,9,13,0,3,0,0,3,3,5,6
+6,Internazionale,Bayern Munich,2 , 0,9,21,2,11,44,56,478,622,83,87,9,11,1,1,0,0,4,1,5,3
+6,Plzen,FC Barcelona,2 , 4,20,8,11,1,77,23,738,223,91,71,5,8,0,4,0,0,1,3,10,1
+6,Sporting CP,Frankfurt,1 , 2,5,6,2,4,45,55,436,516,78,81,15,17,3,4,0,0,1,3,3,6
+6,Marseille,Tottenham,1 , 2,16,7,4,3,64,36,669,382,88,82,9,10,1,2,0,0,3,3,9,3
+6,Real Madrid,Celtic,5 , 1,25,14,10,8,65,35,756,401,91,86,6,8,0,2,0,0,0,0,5,4
+6,Shakhtar Donetsk,Leipzig,0 , 4,5,12,1,7,48,52,502,533,87,89,15,10,3,0,0,0,3,4,2,3
+6,Chelsea,Dinamo Zagreb,2 , 1,22,7,6,2,59,41,595,421,89,79,17,16,1,3,0,0,0,0,9,3
+6,AC Milan,Salzburg,4 , 0,15,16,7,6,48,52,380,403,76,80,6,9,0,2,0,0,2,0,3,2
+6,Manchester City,Sevilla,3 , 1,21,7,7,2,62,38,658,418,91,85,9,7,0,0,0,0,1,0,7,1
+6,Copenhagen,Borussia Dortmund,1 , 1,22,13,9,1,42,58,446,603,80,85,9,7,2,2,0,0,3,2,3,6
+6,Juventus,Paris Saint-Germain,1 , 2,15,7,2,5,47,53,559,639,90,90,14,13,3,1,0,0,3,0,0,2
+6,M. Haifa,Benfica,1 , 6,10,17,2,10,42,58,447,606,81,88,10,6,3,1,0,0,2,1,3,2
+7,AC Milan,Tottenham,1 , 0,9,11,4,3,47,53,404,441,79,79,17,13,2,2,0,0,1,4,3,8
+7,Paris Saint-Germain,Bayern Munich,0 , 1,9,18,4,7,46,54,508,588,87,90,8,18,2,0,0,1,5,3,4,5
+7,Club Brugge,Benfica,0 , 2,4,14,1,4,45,55,473,572,79,84,10,8,2,1,0,0,4,4,3,7
+7,Borussia Dortmund,Chelsea,1 , 0,14,21,2,8,47,53,450,480,83,86,13,12,6,4,0,0,0,3,5,10
+7,Liverpool,Real Madrid,2 , 5,9,9,5,6,52,48,555,527,85,85,9,9,1,1,0,0,0,0,4,3
+7,Frankfurt,Napoli,0 , 2,5,18,1,10,30,70,298,719,75,88,12,13,1,2,1,0,1,2,4,9
+7,Leipzig,Manchester City,1 , 1,7,12,4,3,38,62,427,700,85,90,12,6,1,0,0,0,3,1,2,4
+7,Internazionale,FC Porto,1 , 0,18,10,4,4,60,40,495,357,83,77,15,14,1,1,0,1,0,1,6,5
+8,Benfica,Club Brugge,5 , 1,20,13,8,2,60,40,609,403,91,83,3,7,1,4,0,0,4,1,2,5
+8,Chelsea,Borussia Dortmund,2 , 0,13,13,4,4,39,61,313,486,74,80,17,9,4,3,0,0,6,0,5,3
+8,Bayern Munich,Paris Saint-Germain,2 , 0,12,10,5,4,45,55,523,638,86,87,9,6,0,1,0,0,3,0,4,6
+8,Tottenham,AC Milan,0 , 0,9,14,2,3,54,46,470,423,83,83,18,12,2,1,1,0,0,1,6,0
+8,Manchester City,Leipzig,7 , 0,23,4,16,1,67,33,647,332,91,78,10,7,2,2,0,0,1,2,10,0
+8,FC Porto,Internazionale,0 , 0,21,11,7,5,68,32,606,290,85,68,11,18,0,3,1,0,2,2,6,3
+8,Real Madrid,Liverpool,1 , 0,9,9,5,6,52,48,555,527,85,85,9,9,1,1,0,0,0,0,4,3
+8,Napoli,Frankfurt,3 , 0,12,8,8,1,60,40,612,409,87,79,13,15,1,3,0,0,2,0,4,3
+9,Benfica,Internazionale,0 , 2,12,9,2,4,58,42,605,432,87,83,11,9,1,2,0,0,1,1,4,6
+9,Manchester City,Bayern Munich,3 , 0,17,12,9,4,44,56,427,558,82,87,11,8,1,2,0,0,0,1,8,5
+9,Real Madrid,Chelsea,2 , 0,18,7,10,3,57,43,643,480,89,82,10,10,3,2,0,1,1,0,3,3
+9,AC Milan,Napoli,1 , 0,12,16,2,6,46,54,417,472,81,83,16,13,3,4,0,1,1,0,3,10
+10,Napoli,AC Milan,1 , 1,23,6,4,4,74,26,601,223,88,72,14,12,2,2,0,0,0,1,16,1
+10,Chelsea,Real Madrid,0 , 2,19,9,6,6,55,45,549,476,90,87,16,8,3,1,0,0,2,2,8,2
+10,Bayern Munich,Manchester City,1 , 1,19,7,7,2,58,42,536,394,89,86,12,11,6,4,0,0,2,2,5,2
+10,Internazionale,Benfica,3 , 3,11,12,3,5,40,60,428,646,78,84,13,10,0,3,0,0,1,2,4,6
+11,Real Madrid,Manchester City,1 , 1,13,10,4,6,44,56,452,565,86,90,11,11,2,2,0,0,0,2,8,7
+11,AC Milan,Internazionale,0 , 2,13,16,2,6,58,42,470,350,83,77,14,16,2,1,0,0,2,2,2,3
+12,Internazionale,AC Milan,1 , 0,15,5,4,1,43,57,332,430,79,83,15,22,2,4,0,0,1,0,5,3
+12,Manchester City,Real Madrid,4 , 0,16,7,8,3,60,40,618,421,89,82,16,14,3,2,0,0,0,0,7,3
+13,Manchester City,Internazionale,1 , 0,7,14,4,6,56,44,512,394,86,82,11,17,2,3,0,0,1,1,2,4
