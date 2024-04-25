@@ -700,7 +700,7 @@ Todo esto se encuentra en este [archivo](https://github.com/Diegodesantos1/Simul
 
 Una vez terminada toda la fase inicial comenzamos con la red neuronal:
 
-![image](https://github.com/Diegodesantos1/Simulador_Champions_League/Capturas_Pantalla/code.png)
+![image](Capturas_Pantalla/code.png)
 
 ![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/ff511d40-6324-41fa-8b6c-92ebb680966c)
 
@@ -710,8 +710,7 @@ Como primera red no está del todo mal, pero es mejorable ya que solo tiene en c
 
 Ahora la capa de salida será una Softmax con salida entre -1, 0 y 1 contemplando así el empate:
 
-
-![image](https://github.com/Diegodesantos1/Simulador_Champions_League/Capturas_Pantalla/code2.png)
+![image](Capturas_Pantalla/code2.png)
 
 ![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/3a51198e-1e35-4d79-9f03-eeb05a30b5f4)
 
@@ -719,7 +718,7 @@ Ahora la capa de salida será una Softmax con salida entre -1, 0 y 1 contempland
 
 Como podemos ver acierta bastante pero debemos mejorar la muestra, ya que los csv no tienen muchas variables, solo Round Number,Home Team,Away Team,Home Goals,Away Goals.
 
-![image](https://github.com/Diegodesantos1/Simulador_Champions_League/Capturas_Pantalla/code3.png)
+![image](Capturas_Pantalla/code3.png)
 
 Tras varias horas recopilando datos a mano vuelvo a reentrenar el modelo pero con las siguientes variables:
 
@@ -729,7 +728,7 @@ Con lo cual el modelo tiene muchas variables más en las que basarse para poder 
 
 Mientras desarrollé una función para probar diferentes configuraciones de capas, neuronas, capas de activaciones, optimizadores, batchs y tasas de apredizaje:
 
-![image](https://github.com/Diegodesantos1/Simulador_Champions_League/Capturas_Pantalla/code5.png)
+![image](Capturas_Pantalla/code5.png)
 
 Con esto genero un txt con infinidad de configuraciones hasta encontrar aquella que tenga los parámetros necesarios: Una precisión > 90% y una pérdida < 25%
 
