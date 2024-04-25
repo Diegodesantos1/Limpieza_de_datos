@@ -750,6 +750,7 @@ Esta es la gráfica del modelo que vamos a usar tras 150 epochs
 <h3 align="center">Cuartos de Final</h3>
 
 -> FC Barcelona VS PSG
+
 ![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/df16445b-1de9-4c3c-9a78-f5dd3d6e492b)
 
 ![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/9e038693-1cee-4341-ae58-1907f86865a1)
