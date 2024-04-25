@@ -773,7 +773,7 @@ Esta es la gráfica del modelo que vamos a usar tras 150 epochs
 
 ![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/002c6ab9-42a5-483f-a4e6-3b3183c1653f)
 
-<h3 align="center">Semininales</h3>
+<h3 align="center">Semifinales</h3>
 
 -> Borussia Dortmund VS PSG
 
