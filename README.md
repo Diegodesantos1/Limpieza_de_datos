@@ -722,7 +722,7 @@ Como podemos ver acierta bastante pero debemos mejorar la muestra, ya que los cs
 
 Tras varias horas recopilando datos a mano vuelvo a reentrenar el modelo pero con las siguientes variables:
 
-![image](https://github.com/Diegodesantos1/Simulador_Champions_League/Capturas_Pantalla/code4.png)
+![image](Capturas_Pantalla/code4.png)
 
 Con lo cual el modelo tiene muchas variables más en las que basarse para poder encontrar mejores patrones y estimar un resultado más óptimo.
 
@@ -743,11 +743,64 @@ Con esto podíamos comenzar a realizar predicciones.
 Todo esto se encuentra en este [archivo](https://github.com/Diegodesantos1/Simulador_Champions_League/Predicciones.ipynb)
 En esta práctica simulé los partidos desde los Cuartos de final hasta la propia final de esta manera:
 
+Esta es la gráfica del modelo que vamos a usar tras 150 epochs
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/83c467f2-11d2-41e5-b8c6-c79ba18afd05)
+
+<h3 align="center">Cuartos de Final</h3>
+
+-> FC Barcelona VS PSG
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/df16445b-1de9-4c3c-9a78-f5dd3d6e492b)
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/9e038693-1cee-4341-ae58-1907f86865a1)
 
 
+->Atlético de Madrid VS Borussia Dortmund
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/c848a137-a5c1-4fe7-afda-f6ac42c79e8e)
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/f74d5d1f-10c8-4bc4-bfd7-e893baed775f)
+
+-> Arsenal VS Bayern Munich
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/18655705-ca6c-4970-bf55-a32939f5d9c4)
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/a6fd295f-6f57-4e55-91bc-3a6bb4a30e6a)
+
+-> Real Madrid vs Manchester City
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/6d5d4ae6-f08f-472e-ad67-e0cab00e5ffe)
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/002c6ab9-42a5-483f-a4e6-3b3183c1653f)
+
+<h3 align="center">Semininales</h3>
+
+-> Borussia Dortmund VS PSG
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/2c06049d-3914-4eb7-9a6c-3de59ae25782)
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/fc2c4170-acac-4a38-8738-876ecb013cfd)
+
+-> Real Madrid VS Bayern Munich
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/0abac445-a8cf-4ad7-89a1-a2ddcda588e0)
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/2fc5869f-c491-4966-8ba5-4df4e79bc49e)
+
+<h3 align="center">Final</h3>
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/483c36df-8efd-4852-9d1c-f468bc0f5655)
 
 
+## Resultados
 
+Aquí están las métricas finales de la red neuronal hechas en Orange:
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/771f8d9f-6f3a-4882-91e2-eb698e17361d)
+
+Por lo tanto tras todo el trabajo realizado concluyo con el cuadro final de UEFA Champions League
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/b5089471-433b-4476-bcba-e5c9fb249c2c)
 
 
 
