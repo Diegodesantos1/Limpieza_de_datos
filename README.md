@@ -754,7 +754,6 @@ Esta es la gráfica del modelo que vamos a usar tras 150 epochs
 
 ![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/9e038693-1cee-4341-ae58-1907f86865a1)
 
-
 ->Atlético de Madrid VS Borussia Dortmund
 
 ![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/c848a137-a5c1-4fe7-afda-f6ac42c79e8e)
