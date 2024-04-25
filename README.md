@@ -1,8 +1,22 @@
-<h1 align="center">Limpieza y Análisis de Datos</h1>
+<h1 align="center">Simulador Champions League 2023-2024</h1>
 
 En este [repositorio](https://github.com/Diegodesantos1/Limpieza_de_datos) queda resuelta la práctica de los análisis y limpieza de datos.
 
-En primer lugar he hecho Scrapping para obtener datos del coeficiente uefa:
+<h2 align="center">Índice</h2>
+
+1. [Obtención de datos](#obtención-de-datos)
+2. [Limpieza de datos](#limpieza-de-datos)
+3. [Análisis Inicial](#análisis-inicial)
+4. [Regresión Lineal y Clustering](#regresión-lineal-y-clustering)
+5. [Red Neuronal](#red-neuronal)
+6. [Predicciones](#predicciones)
+7. [Resultados](#resultados)
+
+
+## Obtención de datos
+He descargado varios CSV con la información principal desde esta [página](https://fixturedownload.com/results/champions-league-2022)
+
+Después he hecho Scrapping para obtener datos del coeficiente uefa:
 
 ```python
 import requests
@@ -60,8 +74,9 @@ def scrapeo():
 # scrapeo()
 ```
 
+## Limpieza de datos
 
-Después la limpieza de todos los datos:
+Ahora comenzamos con la limpieza de todos los datos:
 
 ```python
 import numpy as np
@@ -492,8 +507,9 @@ df_trabajar.to_csv("Datos_Limpios/UCL" +
                    nombres_goles[i] + ".csv", index=False)
 
 ```
+## Análisis Inicial
 
-Una vez hecho eso es el momento de hacer las gráficas:
+Una vez terminada la limpieza y obtención de los datos es el momento de hacer las gráficas:
 
 Primero a nivel general:
 
@@ -535,7 +551,9 @@ for i in range(len(datos)):
 
 ![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/6ba20147-d545-4c4e-a2a5-b9c37ab8d3cd)
 
-Para terminar la regresión lineal:
+## Regresión Lineal y Clustering
+
+Ahora aplico la regresión lineal:
 
 ```python
 from sklearn.linear_model import LinearRegression
@@ -572,9 +590,7 @@ plt.show()
 
 Ahora pasamos a la Clusterización:
 
-
 ![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/b0454ce7-2caf-4265-be21-e6436d8e2848)
-
 
 Viendo los clústers, la mejor opción es elegir 6:
 
@@ -672,8 +688,67 @@ Luego he calculado las métricas pertinentes:
 
 ![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/ff84a283-1861-4304-94a2-7917dd945417)
 
-Y para terminar la matriz de correlación:
+Y para terminar esta parte la matriz de correlación:
 
 ![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/be822f40-d416-4c23-8342-6be57013e194)
 
 ![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/04390e6e-22c2-4202-9183-4de0dc774801)
+
+## Red Neuronal
+
+Todo esto se encuentra en este [archivo](https://github.com/Diegodesantos1/Simulador_Champions_League/Red_Neuronal.ipynb)
+
+Una vez terminada toda la fase inicial comenzamos con la red neuronal:
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/Capturas_Pantalla/code.png)
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/ff511d40-6324-41fa-8b6c-92ebb680966c)
+
+Como primera red no está del todo mal, pero es mejorable ya que solo tiene en cuenta una salida binaria (0,1) en función de victoria y derrota, por lo tanto no comtempla el empate:
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/b2a5da42-7450-459b-b014-11f491bab947)
+
+Ahora la capa de salida será una Softmax con salida entre -1, 0 y 1 contemplando así el empate:
+
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/Capturas_Pantalla/code2.png)
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/3a51198e-1e35-4d79-9f03-eeb05a30b5f4)
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/e3541ba7-9333-4184-a661-c2f0aa743387)
+
+Como podemos ver acierta bastante pero debemos mejorar la muestra, ya que los csv no tienen muchas variables, solo Round Number,Home Team,Away Team,Home Goals,Away Goals.
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/Capturas_Pantalla/code3.png)
+
+Tras varias horas recopilando datos a mano vuelvo a reentrenar el modelo pero con las siguientes variables:
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/Capturas_Pantalla/code4.png)
+
+Con lo cual el modelo tiene muchas variables más en las que basarse para poder encontrar mejores patrones y estimar un resultado más óptimo.
+
+Mientras desarrollé una función para probar diferentes configuraciones de capas, neuronas, capas de activaciones, optimizadores, batchs y tasas de apredizaje:
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/Capturas_Pantalla/code5.png)
+
+Con esto genero un txt con infinidad de configuraciones hasta encontrar aquella que tenga los parámetros necesarios: Una precisión > 90% y una pérdida < 25%
+
+Estás fue las configuración que logró los parámetros necesarios:
+
+![image](https://github.com/Diegodesantos1/Simulador_Champions_League/assets/91721855/d0cd11c8-c49f-406a-a8ce-23719325dd7c)
+
+Con esto podíamos comenzar a realizar predicciones.
+
+## Predicciones
+
+Todo esto se encuentra en este [archivo](https://github.com/Diegodesantos1/Simulador_Champions_League/Predicciones.ipynb)
+En esta práctica simulé los partidos desde los Cuartos de final hasta la propia final de esta manera:
+
+
+
+
+
+
+
+
+
